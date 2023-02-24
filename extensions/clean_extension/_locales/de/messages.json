@@ -1,0 +1,138 @@
+{
+   "b0": {
+      "message": "Ok"
+   },
+   "b1": {
+      "message": "Abbrechen"
+   },
+   "b2": {
+      "message": "Anzeigen Ihres Browserverlaufs"
+   },
+   "cache": {
+      "description": "Cache Viewer",
+      "message": "Alle zeigen;Bilder;Videos;Audios;Skripte;CSS;HTML;Aktualisieren;Dies löscht den gesamten Cache, unabhängig vom gewählten Content-Typ!;Suche in URL...;Vorige Seite;Aktuelles Seite;Nächste Seite;Daten im Cache anzeigen;Beinhaltenden Ordner öffnen;Nicht gefunden"
+   },
+   "calendar": {
+      "description": "Calendar",
+      "message": "Jan;Feb;Mär;Apr;Mai;Jun;Jul;Aug;Sep;Okt;Nov;Dez;So;Mo;Di;Mi;Do;Fr;Sa;Sonntag;Montag;Dienstag;Mittwoch;Donnerstag;Freitag;Samstag;Vorjahr;Folgejahr;Vormonat;Nächster Monat;Heute;Abbrechen"
+   },
+   "cleaner1": {
+      "description": "Cleaner Buttons / Labels & Titles",
+      "message": "Vergessen Sie nicht zu...;5-Sterne-Bewertung;Spenden;Starte Cleaner;Verlauf;Verwalten des Browserverlaufs;Kontakt;Hilfe;Niedrig;Mittel;Hoch;Dev;Entwicklermodus AN/AUS;Reinigungsmodus;Einstellungen sichern...;Einstellungen wiederherstellen...;Einträge aus Ihrem Google-Webprotokoll entfernen;Synchronisierung beenden und synchronisierte Chrome-Daten löschen;Aussehen"
+   },
+   "cleaner2": {
+      "description": "Cleaner Options / Headers",
+      "message": "CHROME;AKTIONEN;EXTRA;Normale Webseiten;Webseiten, die als gehostete Anwendungen installiert wurden;Erweiterungen und verpackt Anwendungen"
+   },
+   "cleaner3": {
+      "description": "Cleaner Options / Select Time Period",
+      "message": "Folgendes für diesen Zeitraum löschen: ;Dem Beginn der aktuellen Sitzung;Letzte Stunde;Den letzten 2 Stunden;Den letzten 4 Stunden;Den letzten 8 Stunden;Den letzten 10 Stunden;Den letzten 12 Stunden;Den letzten 24 Stunden;Letzte Woche;-/-;Gesamter Zeitraum"
+   },
+   "cleaner4": {
+      "description": "Cleaner Options / Labels",
+      "message": "Alle Tabs vor der Reinigung löschen;Browserverlauf löschen;Downloadverlauf löschen;Cache löschen;Cookies löschen;Gespeicherte Passwörter löschen;Gespeicherte Formulardaten löschen;Lokalen Speicher löschen;WebSQL Datenbanken löschen;Indizierte Datenbanken löschen;Dateisysteme löschen;Programm-Cache leeren;Plug-in-Daten löschen;Cookies löschen;Lokalen Speicher löschen;WebSQL Datenbanken löschen;Indizierte Datenbanken löschen;Dateisysteme löschen;Programm-Cache leeren;Cookies löschen;Lokalen Speicher löschen;WebSQL Datenbanken löschen;Indizierte Datenbanken löschen;Dateisysteme löschen;Programm-Cache leeren;Aktive Tabs nach der Reinigung neu laden;Persönliche Daten löschen wenn Chrome geschlossen wird;Schließt das Programm nach der Reinigung;Sound abspielen wenn die Aufgabe abgeschlossen ist;Befehle zu Kontextmenü hinzufügen;Zugang zum Standard-Verlauf verhindern;Benachrichtigungen aktivieren (empfohlen);Anzahl im Symbol anzeigen"
+   },
+   "cleaner5": {
+      "description": "Cleaner Options / Custom Titles",
+      "message": "Details anzeigen;Alle Tabs schließen;Alle Tabs neu laden (ohne Reinigung);Chrome jetzt schließen (ohne Reinigung);Anwendung jetzt schließen (ohne Reinigung);Jetzt abspielen"
+   },
+   "cookies": {
+      "description": "Cookie manager",
+      "message": "Alle markieren / Alle demarkieren;Cookies löschen;Cookies behalten;Aktualisieren;Ausgewählte Elemente entfernen;Angemeldet bleiben"
+   },
+   "ctxMenu": {
+      "description": "Context Menu Items",
+      "message": "Diese Seite vergessen;Link anonym öffnen (keine Referrer);Secure search Google for '%s'"
+   },
+   "days": {
+      "description": "Days of the week",
+      "message": "Sonntag;Montag;Dienstag;Mittwoch;Donnerstag;Freitag;Samstag"
+   },
+   "extDesc": {
+      "message": "Diese App löscht Ihren Browsing-Verlauf wenn der Browser geschlossen wird und verhindert die Verfolgung Ihrer Online-Aktivität."
+   },
+   "extName": {
+      "message": "Click&Clean"
+   },
+   "extTitle": {
+      "message": "Click&Clean"
+   },
+   "history": {
+      "description": "History Viewer",
+      "message": "Nach Name filtern;Aktualisieren;Alle markieren / Alle demarkieren;Ausgewählte Elemente entfernen;Nicht gefunden;Als HTML exportieren..."
+   },
+   "m0": {
+      "message": "Die neue Click&Clean Version $1 wurde erfolgreich installiert!"
+   },
+   "m1": {
+      "message": "Danke, dass Sie Click&Clean verwenden!"
+   },
+   "m12": {
+      "message": "Es ist ein Fehler aufgetreten!"
+   },
+   "m2": {
+      "message": "Software Welche Ihr Leben Verbessert!"
+   },
+   "m20a": {
+      "message": "Warnung! Many extensions can store their settings here. If you select this option, any saved preferences will be deleted!"
+   },
+   "m20b": {
+      "message": "Many extensions can store their settings here. Möchten Sie den Vorgang wirklich fortsetzen?"
+   },
+   "m3": {
+      "message": "Attention! You haven't run a clean up on your browsing history for a while. This could put your private data at risk."
+   },
+   "m4": {
+      "message": "Dies ist ein experimenteller Modus. Nicht alle Funktionen funktionieren evtl. wie erwartet. Verwenden Sie ihn auf eigenes Risiko!"
+   },
+   "m5a": {
+      "message": "Warnung! Wenn Sie diese Option wählen, werden alle gespeicherten Passwörter gelöscht."
+   },
+   "m5b": {
+      "message": "Sind Sie sicher, dass Sie gespeicherte Passwörter löschen möchten?"
+   },
+   "m7": {
+      "message": "Reinigung Komplett"
+   },
+   "m8": {
+      "message": "Beendet"
+   },
+   "m9": {
+      "message": "Diese Nachricht nicht mehr anzeigen"
+   },
+   "menu": {
+      "description": "Popup Menu - Menu",
+      "message": "Haupt-;Chrome;System;Spenden"
+   },
+   "menu0": {
+      "description": "Popup Menu - Main",
+      "message": "Browser sicher schließen;Persönliche Daten löschen;Alle Tabs schließen;Cache...;Cache löschen;Verlauf...;Browserverlauf löschen;Erweiterungen...;Nach Malware scannen...;Downloads...;Download-Verlauf löschen;Inkognito;Datenträgerbereinigung... ;Speicher...;Privatsphären-Test;Cookies...;Cookies löschen;Rückmeldungen;Optionen...;Aussehen;Auf Updates prüfen;5-Sterne-Bewertung;Facebook;Google+;Twitter;Youtube"
+   },
+   "menu1": {
+      "description": "Popup Menu - Chrome",
+      "message": "Plug-ins;Erweiterungen;Experimente;Netzwerk-Stack;DNS;Verlauf;Cache;Passwort Generator;Version;Blog;Konflikte;Richtlinien;Versionen;Kalender;Danksagung;Bugs"
+   },
+   "menu2": {
+      "description": "Popup Menu - System",
+      "message": "Sicherheitscenter;Info;Programme deinstallieren;Defragmentierer;Sound-Einstellungen;Netzwerkverbindungen;Verbindung mit einem Netzwerk;Drahtlosnetzwerke verwalten;Geräte;Display-Einstellungen;Dienstleistungen ;DirectX-Diagnoseprogramm"
+   },
+   "menu3": {
+      "description": "Popup Menu – Donate",
+      "message": "Click&Clean unterstützen!;Jeder von uns kann dazu beitragen, Click&Clean besser für alle zu machen!;Spenden;Sicher via PayPal;Als Bonus erhält jeder Spender:;Wir können diese Bedingungen jederzeit ändern.;1. Zugang zu einer Beta-Version von Click&Clean vor allen anderen.;2. Vorrangien Support durch das Click&Clean Team via E-Mail.;3. Ihr vollständiger Name und ein Link zu Ihrer Bio, Ihrem Blog, Ihrer Facebook-Seite, etc. wird auf der;Unterstützer-Seite ;der Webseite hinzugefügt.;Wir behalten uns das Recht vor, einen Link zu Ihrer Bio, Ihrem Blog, etc. in unserem alleinigen Ermessen nicht zu platzieren, wenn dieser nicht unseren Kriterien entspricht.;Anmerkung: ;Bitte lassen Sie es uns wissen, wenn Ihre Spende anonym bleiben soll."
+   },
+   "months": {
+      "description": "Months",
+      "message": "Januar;Februar;März;April;Mai;Juni;Juli;August;September;Oktober;November;Dezember"
+   },
+   "pgen": {
+      "description": "Password Generator",
+      "message": "Kopieren Sie das generierte Passwort in die Zwischenablage oder ziehen Sie es per Drag&Drop in ein Feld.;Anzahl der Zeichen:;Generieren;Kopieren;Generiert ein neues Passwort;Kopiert das generierte Passwort in die Zwischenablage"
+   },
+   "share": {
+      "description": "Share Button / Titles",
+      "message": "Abonnieren Sie unseren YouTube-Kanal;Teilen auf Facebook;Teilen auf Google+;Teilen auf Twitter;Folgen Sie uns auf Twitter;Empfehlen via E-Mail;Folgen Sie uns auf Pinterest"
+   },
+   "ver": {
+      "message": "9.3.0.0"
+   }
+}

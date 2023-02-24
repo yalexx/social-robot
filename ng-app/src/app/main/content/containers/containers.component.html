@@ -1,0 +1,33 @@
+<div class="page-layout blank p-24" fusePerfectScrollbar>
+  <ul style="padding: 0">
+    <li *ngFor="let container of containers; let i = index">
+      <!--<span>{{container.Names[0]}}</span>-->
+      <span style="float: left; width: 30px;"><b>{{container.container.id}}</b></span>
+
+
+      <span style="color: green; float: right; width: 100px; text-align: right;"
+            *ngIf="container.data && container.data.State.Running">{{container.data.State.Status}}</span>
+      <span style="color: red; float: right; width: 100px; text-align: right;"
+            *ngIf="container.data && !container.data.State.Running">{{container.data.State.Status}}</span>
+      <span style="color: #3d3e3d; float: right; width: 100px; text-align: right"
+            *ngIf="container.data === null">not started</span>
+      <span *ngIf="container.data" style="float: right; margin-right: 20px;"><a target="_blank"
+                                                                                href="http://social-robots.ddns.net:{{9000 + container.container.id*1}}/vnc.html">View Desktop</a></span>
+
+      <span style="color: #0c2f7e; float: left; margin-right: 4px; width: 300px;">{{container.container.name}}</span>
+      <span style="color: #7e364a; float: left; margin-right: 4px; width: 300px;">{{container.container.routine}}</span>
+      <span style="color: #1A237E; float: right; margin-right: 20px;">{{container.container.hostname}}</span>
+
+      <a (click)="startContainer(container.container.id)">Start</a>
+      <a (click)="stopContainer(container.data.Id)">Stop</a>
+      <a (click)="restartContainer(container.container.id, container.data.Id)">Restart</a>
+
+
+      <select [(ngModel)]="container.container.paused"
+              (change)="pauseContainer(container.container.id, $event.target.value)" style="margin-left: 10px;">
+        <option value="true">Paused</option>
+        <option value="false">Running</option>
+      </select>
+    </li>
+  </ul>
+</div>

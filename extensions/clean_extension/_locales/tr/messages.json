@@ -1,0 +1,138 @@
+{
+   "b0": {
+      "message": "Tamam"
+   },
+   "b1": {
+      "message": "İptal"
+   },
+   "b2": {
+      "message": "Tarama geçmişini görüntüle"
+   },
+   "cache": {
+      "description": "Cache Viewer",
+      "message": "Tümünü göster;Resim;Videolar;Audiolar;Betikler;CSS;HTML;Yenile;Bu önbelleğinizi içerik gözetmeden tamamen siler. ;Alan adında ara...;Önceki sayfa;Geçerli sayfa;Sonraki sayfa;Önbellekteki verileri gör;Içeren klasörü açı;Hiçbiri bulundu"
+   },
+   "calendar": {
+      "description": "Calendar",
+      "message": "Oca;Şub;Mar;Nis;May;Haz;Tem;Ağu;Eyl;Eki;Kas;Ara;Pa;Pz;Sa;Ça;Pe;Cu;Cm;Pazar;Pazartesi;Salı;Çarşamba;Perşembe;Cuma;Cumartesi;Geçen Yıl;Gelecek Yıl;Geçen Ay;Gelecek Ay;Bugün;İptal"
+   },
+   "cleaner1": {
+      "description": "Cleaner Buttons / Labels & Titles",
+      "message": "Sakın unutma...;5 yıldız ver;Bağışlamak;Temizliğe Başla;Geçmiş;Tarama geçmişini yönet;Destek;Yardım;Düşük;Orta;Yüksek;Gel;On/Off Geliştirici mod;Temizleme mod;Yedekleme ayarları...;Onarma ayarları...;Google Web Geçmişinizden öğe kaldırma;Senkronizasyonu durdur ve senkronize edilen tüm Chrome verilerini temizle;Görünüm"
+   },
+   "cleaner2": {
+      "description": "Cleaner Options / Headers",
+      "message": "CHROME;AKSIYONLAR;EXTRA;Normal Websiteleri;Barındırılan uygulama olarak yüklenen websiteleri;Eklemeler ve paket uygulamalar"
+   },
+   "cleaner3": {
+      "description": "Cleaner Options / Select Time Period",
+      "message": "Aşağıdaki öğelerin tüm izlerini sil:;Şu anki oturumun başlangıcı;son 1 saat;son 2 saat;son 4 saat;son 8 saat;son 10 saat;son 12 saat;son 24 saat;geçen hafta;-/-;en baştan"
+   },
+   "cleaner4": {
+      "description": "Cleaner Options / Labels",
+      "message": "Temizlemeden önce bütün sekmeleri kapat;Tarama geçmişini temizle;İndirme geçmişini temizle;Önbelleği boşalt;Çerezleri sil;Kayıtlı şifreleri temizle;Kaydedilmiş form verilerini sil;Yerel hafızayı sil;WebSQL veritabanını sil;Endekslenmiş veritabanlarını sil;Dosya sistemlerini sil;Boş önbellek uygulamaları;Yan uygulama verilerini sil;Çerezleri sil;Yerel hafızayı sil;WebSQL veritabanını sil;Endekslenmiş veritabanlarını sil;Dosya sistemlerini sil;Boş önbellek uygulamaları;Çerezleri sil;Yerel hafızayı sil;WebSQL veritabanını sil;Endekslenmiş veritabanlarını sil;Dosya sistemlerini sil;Boş önbellek uygulamaları;Temizlemeden sonra etkin sekmeleri yeniden yükle;Chrome kapanınca özel verileri sil;Temizlikten sonra uygulama kapat ;Görev bittiğinde ses çıkar;Bağlam menüsüne komutlar ekle;Varsayılan geçmiş sayfasına girişi engelle;Bildirimleri göster (önerilen);Simgede numarayı göster"
+   },
+   "cleaner5": {
+      "description": "Cleaner Options / Custom Titles",
+      "message": "Görünüm...;Tüm sekmeleri kapat;Bütün sekmeleri geri yükle (temizlemeden);Chrome'u kapat (temizlemeden);Uygulamayı kapat (temizlemeden);Oynat"
+   },
+   "cookies": {
+      "description": "Cookie manager",
+      "message": "Tümünü Seç / Hiçbirini Seçme;Silinecek çerezler;Kalacak çerezler;Yenile;Seçilen öğeleri kaldır;Hesabımı açık tut"
+   },
+   "ctxMenu": {
+      "description": "Context Menu Items",
+      "message": "Forget this Page;Open link anonymously (no referrer);Secure search Google for '%s'"
+   },
+   "days": {
+      "description": "Days of the week",
+      "message": "Pazar;Pazartesi;Salı;Çarşamba;Perşembe;Cuma;Cumartesi"
+   },
+   "extDesc": {
+      "message": "Bu uygulama, tarama geçmişinizi tarayıcı kapanınca siler ve çevrimiçi takip edilmenizi engeller."
+   },
+   "extName": {
+      "message": "Click&Clean"
+   },
+   "extTitle": {
+      "message": "Click&Clean"
+   },
+   "history": {
+      "description": "History Viewer",
+      "message": "Başlıkları ara;Yenile;Tümünü Seç / Hiçbirini Seçme;Seçilen öğeleri kaldır;Hiçbiri bulundu;HTML Olarak Aktar..."
+   },
+   "m0": {
+      "message": "Yeni 1$ lık Click&Clean versiyonunu başarıyla yüklediniz!"
+   },
+   "m1": {
+      "message": "Click&Clean'i kullandığınız için teşekkür ederiz!"
+   },
+   "m12": {
+      "message": "Bir hata oluştu!"
+   },
+   "m2": {
+      "message": "Hayatınızı iyileştirmek için yapılan bir yazılım!"
+   },
+   "m20a": {
+      "message": "Dikkat! Many extensions can store their settings here. If you select this option, any saved preferences will be deleted!"
+   },
+   "m20b": {
+      "message": "Many extensions can store their settings here. Devam etmek istediğinizden emin misiniz?"
+   },
+   "m3": {
+      "message": "Attention! You haven't run a clean up on your browsing history for a while. This could put your private data at risk."
+   },
+   "m4": {
+      "message": "Bu deneme modudur. Bütün özellikler beklenildiği gibi çalışmayabilir. Kendi riskinizi göze alarak kullanın!"
+   },
+   "m5a": {
+      "message": "Dikkat! Bu opsiyonu seçerseniz, kaydedilmiş bütün şifreler silinecektir."
+   },
+   "m5b": {
+      "message": "Kayıtlı şifreleri öğesini silmek istediğinize emin misiniz?"
+   },
+   "m7": {
+      "message": "Temizlik bitti"
+   },
+   "m8": {
+      "message": "Tamamlandı"
+   },
+   "m9": {
+      "message": "Bu mesajı bir daha gösterme"
+   },
+   "menu": {
+      "description": "Popup Menu - Menu",
+      "message": "Ana;Chrome;Sistem;Bağışlamak"
+   },
+   "menu0": {
+      "description": "Popup Menu - Main",
+      "message": "Tarayıcıyı güvenle kapat;Özel Verileri Temizle;Tüm sekmeleri kapat;Önbellek...;Önbelleği boşalt;Geçmiş...;Tarama geçmişini temizle;Uzantılar...;Kötü Amaçlı Yazılım için Tara;İndirilenler...;İndirme geçmişini temizle;Gizli mod;Disk Temizleme...;Bellek...;Gizlilik Testi;Çerezleri...;Çerezleri sil;Destek;Seçenekler...;Görünüm;Güncellemeleri Denetle;5 yıldız ver;Facebook;Google+;Twitter;Youtube"
+   },
+   "menu1": {
+      "description": "Popup Menu - Chrome",
+      "message": "Eklentiler;Uzantılar;Deneyler;Ağ Stack;DNS;Geçmiş;Önbellek;Şifre Oluştur;Sürüm;Bloglar;Çatışmalar;Politikalar;Yenilikler;Takvim;Krediler;Buglar"
+   },
+   "menu2": {
+      "description": "Popup Menu - System",
+      "message": "Güvenlik Merkezi;Bilgi;Programları kaldır;Disk Birleştirici;Ses Ayarları;Ağ Bağlantıları;Bir ağa bağlan;Kablosuz ağları yönet;Cihazlar;Görüntü Ayarları;Hizmetleri;DirectX Tanı"
+   },
+   "menu3": {
+      "description": "Popup Menu – Donate",
+      "message": "Support Click&Clean!;Each of us can contribute to make the Click&Clean better for everyone!;Donate;Securely via PayPal;As a bonus, each Contributor will receive:;We may modify these terms at any time.;1. Access to a beta version of the Click&Clean before anyone else.;2. Priority to get support via email from the Click&Clean team.;3. Your full name and a link to your bio, blog, facebook page, etc will be added to the;supporters page ;on the website.;We reserve the right not to place a link to your bio, blog, etc, which, in our sole discretion, do not conform to our criteria.;Note: ;Please let us know if you wish your donation to remain anonymous."
+   },
+   "months": {
+      "description": "Months",
+      "message": "Ocak;Şubat;Mart;Nisan;May;Haziran;Temmuz;Ağustos;Eylül;Ekim;Kasim;Aralik"
+   },
+   "pgen": {
+      "description": "Password Generator",
+      "message": "Şifre üretildi. Herhangi bir alana sürükleyin.;Karakterlerin sayısı: ;Oluştur;Kopyala;Yeni şifre oluştur;Oluşturulan şifreyi panoya kopyalar"
+   },
+   "share": {
+      "description": "Share Button / Titles",
+      "message": "YouTube'daki videolarımızın abonesi ol;Facebook'da Paylaş;Google+'da Paylaş;Twitter'da Paylaş;Bizi Twitterda Takip Edin;Email ile Paylaş;Bizi Pinterest'te Takip Edin"
+   },
+   "ver": {
+      "message": "9.3.0.0"
+   }
+}

@@ -1,0 +1,6 @@
+{
+  "globalDependencies": {
+    "chrome": "registry:dt/chrome#0.0.0+20170323135751",
+    "jquery": "registry:dt/jquery#1.10.0+20170310222111",
+  }
+}

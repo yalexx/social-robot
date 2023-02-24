@@ -1,0 +1,138 @@
+{
+   "b0": {
+      "message": "Ok"
+   },
+   "b1": {
+      "message": "Anuluj"
+   },
+   "b2": {
+      "message": "Zobacz historię przeglądania"
+   },
+   "cache": {
+      "description": "Cache Viewer",
+      "message": "Pokaż wszystkie;Obrazy;Filmy;Pliki audio;Skrypty;CSS;HTML;Odśwież;To wyczyści cały cache bez względu na typ zawartości!;Przeszukaj w URL...;Poprzednia strona;Bieżąca strona;Następna strona;Zobacz zachowane dane;Otwórz folder zawierający;Nie odnaleziono"
+   },
+   "calendar": {
+      "description": "Calendar",
+      "message": "Sty;Lut;Mar;Kwi;Maj;Cze;Lip;Sie;Wrz;Paź;Lis;Gru;Ni;Po;Wt;Śr;Cz;Pi;So;Niedziela;Poniedziałek;Wtorek;Środa;Czwartek;Piątek;Sobota;Poprzedni rok;Następny rok;Poprzedni miesiąc;Następny miesiąc;Dzisiaj;Anuluj"
+   },
+   "cleaner1": {
+      "description": "Cleaner Buttons / Labels & Titles",
+      "message": "Nie zapomnij...;Oceń na 5 gwiazdek;Wnieść wkład;Uruchom Cleaner;Historia;Zarządzaj historią przeglądania;Kontakt;Pomoc;Niski;Średni;Wysoki;Dev;Wyłącznik modułu developerskiego;Moduł czyszczący;Zapisz ustawienia;Przywróć ustawienia;Usuwanie wpisów z Historii online Google;Zatrzymaj synchronizację i wyczyść zsynchronizowane dane Chrome;Wygląd"
+   },
+   "cleaner2": {
+      "description": "Cleaner Options / Headers",
+      "message": "CHROME;ZADANIA;EXTRA;Zwykłe strony;Strony zainstalowane jako aplikacje;Rozszerzenia oraz aplikacje spakowane"
+   },
+   "cleaner3": {
+      "description": "Cleaner Options / Select Time Period",
+      "message": "Wyczyść poniższe elementy za okres:;Rozpoczęcie obecnej sesji;ostatnia godzina;Ostatnie 2 godziny;Ostatnie 4 godziny;Ostatnie 8 godzin;Ostatnie 10 godzin;Ostatnie 12 godzin;Ostatnie 24 godziny;ostatni tydzień;-/-;od samego początku"
+   },
+   "cleaner4": {
+      "description": "Cleaner Options / Labels",
+      "message": "Zamknij wszystkie karty przed czyszczeniem;Wyczyść historię przeglądania;Wyczyść historię pobierania;Opróżnij pamięć podręczną;Usuń pliki cookie;Wyczyść zapisane hasła;Wyczyść zapisane dane formularzy;Usuń dane lokalne;Usuń bazy danych webSQL;Usuń zindeksowane bazy danych;Usuń pliki systemowe;Opróżnij cache aplikacji;Usuń dane wtyczek;Usuń pliki cookie;Usuń dane lokalne;Usuń bazy danych webSQL;Usuń zindeksowane bazy danych;Usuń pliki systemowe;Opróżnij cache aplikacji;Usuń pliki cookie;Usuń dane lokalne;Usuń bazy danych webSQL;Usuń zindeksowane bazy danych;Usuń pliki systemowe;Opróżnij cache aplikacji;Przywróć aktywne zakładki po czyszczeniu;Usuń prywatne dane przy zamknięciu Chrome;Zamknij aplikacja po czyszczeniu;Dźwięk po zakończeniu zadania;Dodaj polecenia do menu kontekstowego;Zablokuj dostęp do standardowej strony historii;Włącz powiadomienia (zalecane);Wyświetlaj liczbę w ikonie"
+   },
+   "cleaner5": {
+      "description": "Cleaner Options / Custom Titles",
+      "message": "Podgląd...;Zamknij wszystkie karty;Odśwież wszystkie karty (bez czyszczenia);Zamknij teraz Chrome (bez czyszczenia);Zamknij program (bez czyszczenia);Graj teraz"
+   },
+   "cookies": {
+      "description": "Cookie manager",
+      "message": "Wybierz Wszystko / Nic;Cookies do usunięcia;Cookies do zachowania;Odśwież;Usuń wybrane elementy;Nie wylogowywuj mnie"
+   },
+   "ctxMenu": {
+      "description": "Context Menu Items",
+      "message": "Usuń stronę;Open link anonymously (no referrer);Secure search Google for '%s'"
+   },
+   "days": {
+      "description": "Days of the week",
+      "message": "Niedziela;Poniedziałek;Wtorek;Środa;Czwartek;Piątek;Sobota"
+   },
+   "extDesc": {
+      "message": "Ta aplikacja usuwa historię przeglądania przy zamknięciu przeglądarki i uniemożliwia śledzenie twojej aktywności online."
+   },
+   "extName": {
+      "message": "Click&Clean"
+   },
+   "extTitle": {
+      "message": "Click&Clean"
+   },
+   "history": {
+      "description": "History Viewer",
+      "message": "Filtruj po tytule;Odśwież;Wybierz Wszystko / Nic;Usuń wybrane elementy;Nie odnaleziono;Eksportuj do pliku HTML..."
+   },
+   "m0": {
+      "message": "Nowa wersja $1 Click&Clean została z powodzeniem zainstalowana!"
+   },
+   "m1": {
+      "message": "Dziękujemy za używanie Click&Clean!"
+   },
+   "m12": {
+      "message": "Wystąpił błąd!"
+   },
+   "m2": {
+      "message": "Program stworzony dla ułatwienia Twojego Życia!"
+   },
+   "m20a": {
+      "message": "Uwaga! Many extensions can store their settings here. If you select this option, any saved preferences will be deleted!"
+   },
+   "m20b": {
+      "message": "Many extensions can store their settings here. Czy na pewno chcesz kontynuować?"
+   },
+   "m3": {
+      "message": "Attention! You haven't run a clean up on your browsing history for a while. This could put your private data at risk."
+   },
+   "m4": {
+      "message": "To jest moduł testowy. Nie wszystko może działać poprawnie. Używasz na własne ryzyko!"
+   },
+   "m5a": {
+      "message": "Uwaga! Opcja ta kasuje wszystkie zachowane hasła!"
+   },
+   "m5b": {
+      "message": "Czy na pewno chcesz usunąć zapisane hasła?"
+   },
+   "m7": {
+      "message": "Czyszczenie Zakończone"
+   },
+   "m8": {
+      "message": "Gotowe"
+   },
+   "m9": {
+      "message": "Ne pokazuj ponownie tej wiadomości"
+   },
+   "menu": {
+      "description": "Popup Menu - Menu",
+      "message": "Główne;Chrome;System;Darować"
+   },
+   "menu0": {
+      "description": "Popup Menu - Main",
+      "message": "Bezpiecznie zamknij przeglądarkę;Wyczyść dane prywatne;Zamknij wszystkie karty;Podręczną...;Opróżnij pamięć podręczną;Historia...;Wyczyść historię przeglądania;Rozszerzenia...;Przeskanuj w poszukiwaniu malware;Pobrane pliki...;Wyczyść historię pobierania;Incognito;Oczyszczanie dysku...;Pamięć...;Test prywatności;Cookie...;Usuń pliki cookie;Sprzężenie zwrotne;Opcje...;Wygląd;Sprawdź aktualizacje;Oceń na 5 gwiazdek;Facebook;Google+;Twitter;Youtube"
+   },
+   "menu1": {
+      "description": "Popup Menu - Chrome",
+      "message": "Wtyczki;Rozszerzenia;Eksperymentach;Stos sieci;DNS;Historia;Podręczną;Generator Haseł;Wersja;Blog;Konflikty;Zasady;Wydania;Kalendarz;Podziękowania;Błędy"
+   },
+   "menu2": {
+      "description": "Popup Menu - System",
+      "message": "Centrum zabezpieczeń;Info;Odinstaluj programy;Defragmentator dysków;Ustawienia dźwięku;Połączenia sieciowe;Podłączanie do sieci;Zarządzaj sieciami bezprzewodowymi;Urządzeń;Ustawienia wyświetlania;Usługi;Diagnostyczne DirectX"
+   },
+   "menu3": {
+      "description": "Popup Menu – Donate",
+      "message": "Wspomagaj Click&Clean!;Każdy z nas może pomóc Click&Clean sta się lepszym dla każdego!;Przekaż darowiznę;Bezpiecznie przez PayPal;Jako bonus, każdy kontrybutor otrzyma:;Możemy zmodyfikować te warunki w każdym momencie;1. Dostęp do wersji beta Click&Clean przed innymi;2. Pierwszeństwo pomocy emailowej od zespołu Click&Clean;3. Twoje nawisko oraz link do twojego bio, strony facebookej, itp. zostaną dodane do;strony kontrybutorów ;w naszym serwisie;Rezerwujemy sobie prawo do nie umieszczania linku, który według naszego uznania nie pasuje do naszych kryteriów.;Uwaga: ;Poinformuj nas jeśli chcesz aby twoja donacja pozostała anonimowa."
+   },
+   "months": {
+      "description": "Months",
+      "message": "Styczeń;Luty;Marzec;Kwiecień;Maj;Czerwiec;Lipiec;Sierpień;Wrzesień;Październik;Listopad;Grudzień"
+   },
+   "pgen": {
+      "description": "Password Generator",
+      "message": "Haslo zostało wygenerowane. Przeciągnij lub wklej je do dowolnego pola.;Ilość znaków:;Generuj;Kopiuj;Generuje nowe hasło;Kopiuj wygenerowane hasło do schowka"
+   },
+   "share": {
+      "description": "Share Button / Titles",
+      "message": "Subskrybuj nasz kanał Youtube;Podziel się na Facebooku;Udostępnij na Google+;Podziel się na Twitterze;Śledź nas na Twitterze;Udostępnij przez e-mail;Śledź nas na Pinterest"
+   },
+   "ver": {
+      "message": "9.3.0.0"
+   }
+}

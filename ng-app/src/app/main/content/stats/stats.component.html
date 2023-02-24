@@ -1,0 +1,86 @@
+<div class="page-layout blank p-24" fusePerfectScrollbar>
+
+  <!-- CONTENT -->
+  <div class="content">
+
+    <table style="width: 300px;">
+      <!--Table Header-->
+      <tr>
+        <th>Action Name</th>
+        <th>24H</th>
+      </tr>
+      <!--Table Body-->
+      <tr *ngFor="let stat of stats; let i = index">
+        <td class="width-50">
+          <span [ngClass]="(stat.count !== 0) ? 'green':'red'" class="today">{{stat.name}}</span>
+        </td>
+        <td class="width-50">
+          <span [ngClass]="(stat.count !== 0) ? 'green':'red'" class="today">{{stat.count}}</span>
+        </td>
+
+      </tr>
+    </table>
+
+    <table style="width: 300px;">
+      <!--Table Header-->
+      <tr>
+        <th>Statistic</th>
+        <th>Total</th>
+      </tr>
+      <!--Table Body-->
+      <tr *ngFor="let stat of stats; let i = index">
+        <td class="width-50">
+          <span [ngClass]="(stat.count !== 0) ? 'green':'red'" class="today">{{stat.name}}</span>
+        </td>
+        <td class="width-50">
+          <span [ngClass]="(stat.count !== 0) ? 'green':'red'" class="today">{{stat.count}}</span>
+        </td>
+
+      </tr>
+    </table>
+
+  </div>
+
+  <!--<div class="content">
+
+    &lt;!&ndash; Widget 5 &ndash;&gt;
+    <div class="pt-48 pb-24 font-size-18 font-weight-300">
+      Bot ban rates over time.
+    </div>
+
+    <div class="fuse-card auto-width">
+
+      <div class="position-relative p-24"
+           fxLayout="row" fxLayoutAlign="space-between center">
+
+        <div fxLayout="row" fxLayoutAlign="start center">
+          <div class="py-8 px-12 border-radius-2 line-height-1 mr-8 cursor-pointer"
+               (click)="widget5SelectedDay = 'yesterday'"
+               [ngClass]="{'grey-300-bg': widget5SelectedDay === 'yesterday'}">
+            Yesterday
+          </div>
+          <div class="py-8 px-12 border-radius-2 line-height-1 mr-8 cursor-pointer"
+               (click)="widget5SelectedDay = 'today'"
+               [ngClass]="{'grey-300-bg': widget5SelectedDay === 'today'}">
+               [ngClass]="{'grey-300-bg': widget5SelectedDay === 'today'}">
+            Today
+          </div>
+        </div>
+      </div>
+
+      <div class="position-relative h-368 pb-16">
+        <canvas baseChart
+                [datasets]="widgets.widget5.datasets[widget5SelectedDay]"
+                [labels]="widgets.widget5.labels"
+                [colors]="widgets.widget5.colors"
+                [options]="widgets.widget5.options"
+                [chartType]="widgets.widget5.chartType">
+        </canvas>
+      </div>
+
+    </div>
+    &lt;!&ndash; / Widget 5 &ndash;&gt;
+  </div>-->
+
+
+</div>

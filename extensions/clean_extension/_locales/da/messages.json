@@ -1,0 +1,138 @@
+{
+   "b0": {
+      "message": "Ok"
+   },
+   "b1": {
+      "message": "Annuller"
+   },
+   "b2": {
+      "message": "Se min browserhistorik"
+   },
+   "cache": {
+      "description": "Cache Viewer",
+      "message": "Alle varer;Billeder;Videoer;Lyd;Scripts;CSS;HTML;Opdater;Dette sletter hele cachen uanset vagte indholds type!;Søg I URL...;Forrige side;Aktuel side;Næste side;Se cached data;Åben indenholdende mappe;Ingen fundet"
+   },
+   "calendar": {
+      "description": "Calendar",
+      "message": "Jan;Feb;Mar;Apr;Maj;Jun;Jul;Aug;Sep;Okt;Nov;Dec;Sø;Ma;Ti;On;To;Fr;Lø;Søndag;Mandag;Tirsdag;Onsdag;Torsdag;Fredag;Lørdag;Sidste år;Næste år;Sidste måned;Næste måned;I dag;Annuller"
+   },
+   "cleaner1": {
+      "description": "Cleaner Buttons / Labels & Titles",
+      "message": "Glem ikke...;Giv 5 stjerner;Doner;Kør Rens;Historik;Administrer browserdata;Support;Hjælp;Lav;Mellem;Høj;Dev;Tænd/Sluk udvikler tilstand ;Rengøring tilstand;Sikkerhedskopiere indstillinger...;Gendan indstillinger...;Fjern elementer fra din Google Webhistorik;Stop synkroniseringen, og slet alle synkroniserede Chrome-data;Uiterlijk"
+   },
+   "cleaner2": {
+      "description": "Cleaner Options / Headers",
+      "message": "CHROME;HANDLINGER;EXTRA;Normal hjemmeside;Hjemmesider, der er installeret som hostede applikationer;Udvidelser og emballerede applikationer"
+   },
+   "cleaner3": {
+      "description": "Cleaner Options / Select Time Period",
+      "message": "Ryd disse elementer fra:;Begyndelsen af nuværende session;seneste time;De sidste 2 timer;De sidste 4 timer;De sidste 8 timer;De sidste 10 timer;De sidste 12 timer;De sidste 24 timer;seneste uge;-/-;altid"
+   },
+   "cleaner4": {
+      "description": "Cleaner Options / Labels",
+      "message": "Luk alle taps før du renser;Ryd browserhistorik;Ryd downloadhistorik;Tøm cache;Slet cookies;Ryd gemte adgangskoder;Slet gemte formulardata;Slet lokal lagring;Slet webSQL databaser;Slet indekseret databaser;Slet fil systemer;Tomme applications cache;Slet plug-in-data;Slet cookies;Slet lokal lagring;Slet webSQL databaser;Slet indekseret databaser;Slet fil systemer;Tomme applications cache;Slet cookies;Slet lokal lagring;Slet webSQL databaser;Slet indekseret databaser;Slet fil systemer;Tomme applications cache;Genindlæs aktiv tabs efter rens;Slet private data når Chrome lukkes;Luk App efter rensning;Afspil lyd når opgaven er færdig;Tilføj kommandoer til kontekst menuen;Forhindre adgang til den standarde historie side;Aktiver meddelelser (Anbefalet);Vis antal i ikonet"
+   },
+   "cleaner5": {
+      "description": "Cleaner Options / Custom Titles",
+      "message": "Vis...;Luk alle faneblade;Genindlæs alle faneblade (uden rensning);Luk Chrome (uden rensning);Luk App (uden rensning);Afspil nu"
+   },
+   "cookies": {
+      "description": "Cookie manager",
+      "message": "Vælg alle / Vælg ingen;Cookies som slettes;Cookies som beholdes;Opdater;Fjern valgte elementer;Forbliv logget ind"
+   },
+   "ctxMenu": {
+      "description": "Context Menu Items",
+      "message": "Glem denne side;Åbn link anonymt (Ingen henvisende);Secure search Google for '%s'"
+   },
+   "days": {
+      "description": "Days of the week",
+      "message": "Søndag;Mandag;Tirsdag;Onsdag;Torsdag;Fredag;Lørdag"
+   },
+   "extDesc": {
+      "message": "Denne app sletter din browserhistorik, når browseren lukkes og forhindrer sporing af din on-line aktivitet."
+   },
+   "extName": {
+      "message": "Click&Clean"
+   },
+   "extTitle": {
+      "message": "Click&Clean"
+   },
+   "history": {
+      "description": "History Viewer",
+      "message": "Filtrer efter titel;Opdater;Vælg alle / Vælg ingen;Fjern valgte elementer;Ingen fundet;Eksporter som HTML..."
+   },
+   "m0": {
+      "message": "Den nye Click & Clean version $ 1 er blevet installeret korrekt!"
+   },
+   "m1": {
+      "message": "Tak for at du bruger Click&Clean!"
+   },
+   "m12": {
+      "message": "Der er opstået en fejl!"
+   },
+   "m2": {
+      "message": "Software Lavet til at gøre dit liv bedre!"
+   },
+   "m20a": {
+      "message": "Advarsel! Many extensions can store their settings here. If you select this option, any saved preferences will be deleted!"
+   },
+   "m20b": {
+      "message": "Many extensions can store their settings here. Er du sikker på, du vil fortsætte?"
+   },
+   "m3": {
+      "message": "Attention! You haven't run a clean up on your browsing history for a while. This could put your private data at risk."
+   },
+   "m4": {
+      "message": "Dette er eksperimentelt tilstand. Ikke alle funktioner kan virke som forventet. Brug den på egen risiko!"
+   },
+   "m5a": {
+      "message": "Advarsel! Hvis du vælger denne mulighed, vil eventuelle gemte adgangskoder slettes."
+   },
+   "m5b": {
+      "message": "Er du sikker på, du vil slette gemte adgangskoder?"
+   },
+   "m7": {
+      "message": "Rensning Færdig"
+   },
+   "m8": {
+      "message": "Færdig"
+   },
+   "m9": {
+      "message": "Vis mig ikke denne besked igen"
+   },
+   "menu": {
+      "description": "Popup Menu - Menu",
+      "message": "Hovedmenu;Chrome;System;Doner"
+   },
+   "menu0": {
+      "description": "Popup Menu - Main",
+      "message": "Luk browser sikkert;Fjern private oplysninger;Luk alle faneblade;Cache...;Tøm cache;Historik...;Ryd browserhistorik;Udvidelser...;Scan efter Malware...;Downloads...;Ryd downloadhistorik;Inkognitotilstand;Diskoprydning...;Hukommelse...;Beskyttelse af personlige oplysninger test;Cookies...;Slet cookies;Support;Valg...;Uiterlijk;Led efter opdateringer;Giv 5 stjerner;Facebook;Google+;Twitter;Youtube"
+   },
+   "menu1": {
+      "description": "Popup Menu - Chrome",
+      "message": "Plugins;Udvidelser;Eksperimenter;Netværks Stakken;DNS;Historik;Cache;Kodeordsgenerator;Version;Blog;Konflikter;Politikker;Udgivelser;Kalender;Credits;Fejl"
+   },
+   "menu2": {
+      "description": "Popup Menu - System",
+      "message": "Sikkerhedscenter;Info;Afinstaller programmer;Diskdefragmentering;Lydindstillinger;Netværksforbindelser;Tilslutning til et netværk;Administration af trådløse netværk;Enheder;Skærmindstillinger;Tjenester;DirectX Diagnostic"
+   },
+   "menu3": {
+      "description": "Popup Menu – Donate",
+      "message": "Support Click&Clean!;Hver enkelt af os kan bidrage til at gøre Click&Clean bedre for alle!;Doner;Sikkert via PayPal;Som en bonus, vil hver bidragyder modtage:;Vi kan ændre disse vilkår når som helst.;1. Adgang til en betaversion af Click&Clean før alle andre.;2. Prioritet på at få støtte via e-mail fra Click&Clean teamet.;3. Dit fulde navn og et link til din bio, blog, facebook side osv. vil blive føjet til;supporternes ;side på hjemmesiden.;Vi forbeholder os ret til ikke at placere et link til din bio, blog, osv., som efter vores eget skøn, ikke stemmer overens med vores kriterier.;Bemærk: ;Lad os vide, hvis du ønsker din donation til at forblive anonym."
+   },
+   "months": {
+      "description": "Months",
+      "message": "Januar;Februar;Marts;April;Maj;Juni;Juli;August;September;Oktober;November;December"
+   },
+   "pgen": {
+      "description": "Password Generator",
+      "message": "Kodeordet en dennet. Træk eller kopier det til det ønskede felt.;Antal tegn: ;Generér;Kopier;Generér nyt kodeord;Kopier det genererede kodeord til udklipsholder"
+   },
+   "share": {
+      "description": "Share Button / Titles",
+      "message": "Abonnér på vores YouTube-kanal;Del på Facebook;Del på Google+;Del på Twitter;Følg os på Twitter;Del via E-mail;Følg os på Pinterest"
+   },
+   "ver": {
+      "message": "9.3.0.0"
+   }
+}

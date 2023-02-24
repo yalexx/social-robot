@@ -1,0 +1,30 @@
+{
+   "background": {
+      "scripts": [ "js/md5.js", "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "img/16x16.png",
+      "default_popup": "html/panel.html",
+      "default_title": "Create & use new canvas fingerprint"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "js/content.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "img/128x128.png",
+      "16": "img/16x16.png",
+      "48": "img/48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqloBrZ5Kf2vySJQXJI8t/m8dZxrBSk8F1gAhRVgEvqn7eTprNoETWGk+m4mw0TyxlT3jpq9V3bbP2aPbXmW3pPByu4ZQyY3+Mf7bRK8l11IH+JEeseEi1QWLSKSxvdj9Z1px+TxSTirrmOcA+BnSPIhkxEbapIgHtjk+2d75RvEZluqCRP/AFP4xklog1qF2ReY7Oz0zZI1uxriU2WIrqectCLJuT08HiOdqG3bXoKODBWV5dtBlYZPoVJ8YrR0qNe4JJqrRzAw4jTBk+7HHUYuPeCPxXDG+uzihrwys8tIFG228DtO7rC9ZXg1uMH7/vyDC7RlNNQgrr3LFE8tI6QIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "options_page": "html/options.html",
+   "permissions": [ "webNavigation", "tabs", "storage", "notifications", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.0"
+}

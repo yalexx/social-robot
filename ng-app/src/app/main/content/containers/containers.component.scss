@@ -1,0 +1,9 @@
+ul {
+  list-style-type: none;
+  li {
+    margin-bottom: 1px;
+    background: #fff;
+    padding: 5px;
+    &:nth-child(even) {background: #eae9e9}
+  }
+}

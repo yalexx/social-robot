@@ -1,0 +1,101 @@
+<div class="page-layout blank p-24" fusePerfectScrollbar>
+
+  <!-- CONTENT -->
+  <div class="content">
+
+    <div class="view-container">
+
+      <div class="user-list float-left">
+        <fieldset class="margin-right-20 height-30-pro">
+          <legend>Search Profile</legend>
+          <form (ngSubmit)="searchUser(searchUserForm)" #searchUserForm="ngForm">
+            <div>
+              <label for="searchEmail">Email:</label> <br>
+              <input required
+                     class="form-control"
+                     id="searchEmail"
+                     #searchEmail="ngModel"
+                     ngModel
+                     type="text"
+                     name="searchEmail">
+              <!--<label for="searchEmail">Name:</label> <br>
+              <input required
+                     class="form-control width-100-pro"
+                     id="searchName"
+                     #searchName="ngModel"
+                     ngModel
+                     type="text"
+                     name="searchName"> <br>-->
+              <!-- <label for="country">Country:</label> <br>
+               <input required
+                      class="form-control width-100-pro"
+                      id="country"
+                      #country="ngModel"
+                      ngModel
+                      type="text"
+                      name="country">-->
+              <button type="submit">Search</button>
+            </div>
+          </form>
+
+          <ul *ngFor="let profile of searchProfiles; let i = index">
+            <li>
+              <span class="margin-right-5 float-left"><b>{{i + 1}}</b></span>
+              <span class="float-left">{{profile.name}} {{profile.familyName}}</span>
+              <span class="float-right pointer" (click)="setFavorites(profile._id)">
+                <mat-icon _ngcontent-c57="" class="secondary-text s-18 mat-icon material-icons" role="img"
+                          aria-hidden="true">star</mat-icon>
+              </span>
+              <br>
+              <span class="pointer green" (click)="setLoginRequest(profile._id)">{{profile.registerEmail}}</span>
+            </li>
+          </ul>
+
+        </fieldset>
+
+        <br>
+
+
+        <fieldset class="margin-right-20 height-70-pro">
+          <legend>Favorites</legend>
+          <ul *ngFor="let profile of favoritesProfiles; let i = index">
+            <li>
+
+              <span class="float-right pointer" (click)="removeFavorites(profile._id)">
+                <mat-icon _ngcontent-c56="" class="secondary-text s-18 mat-icon material-icons" role="img"
+                          aria-hidden="true">delete
+              </mat-icon>
+              </span>
+
+
+              <span class="margin-right-5 float-left"><b>{{i + 1}}</b></span>
+              <span class="float-left">{{profile.name}} {{profile.familyName}}</span> <br>
+              <span class="pointer green" (click)="setLoginRequest(profile._id)">{{profile.registerEmail}}</span>
+            </li>
+          </ul>
+        </fieldset>
+
+
+      </div>
+
+      <div class="change-screen">
+        <ul>
+          <li (click)="changeScreen(36)" [ngStyle]="{'background-color': this.currentScreen === 36 ? 'green' : 'blue' }">36</li>
+          <li (click)="changeScreen(37)" [ngStyle]="{'background-color': this.currentScreen === 37 ? 'green' : 'blue' }">37</li>
+          <li (click)="changeScreen(38)" [ngStyle]="{'background-color': this.currentScreen === 38 ? 'green' : 'blue' }">38</li>
+          <!--<li (click)="changeScreen(39)">39</li>
+          <li (click)="changeScreen(40)">40</li>-->
+        </ul>
+      </div>
+
+      <iframe id="control-frame"
+              class="float-left"
+              [src]="screenUrl | safe"
+              frameborder="0">
+        webkitallowfullscreen mozallowfullscreen allowfullscreen
+      </iframe>
+    </div>
+
+  </div>
+
+</div>

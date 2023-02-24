@@ -1,0 +1,110 @@
+ul {
+  list-style-type: none;
+  li {
+    margin-bottom: 1px;
+    background: #fff;
+    padding: 5px;
+    &:nth-child(even) {
+      background: #eae9e9
+    }
+  }
+}
+
+.limit {
+  color: blue;
+}
+
+.divider {
+  margin: 0 5px;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.limit-range {
+  width: 40px;
+}
+
+.limit-range-medium {
+}
+
+.form-control {
+  border: 1px solid #000;
+}
+
+input {
+  display: inline-block;
+  margin: 2px 4px !important;
+  border: 1px solid #000;
+}
+
+.margin-right-15 {
+  margin-right: 15px;
+}
+
+.margin-right-30 {
+  margin-right: 30px;
+}
+
+button {
+  padding: 3px 5px;
+  border-radius: 2px;
+  background: #e2e2e2;
+  cursor: pointer;
+  &:hover {
+    opacity: 0.9;
+  }
+}
+
+label {
+  font-weight: bold;
+}
+
+.float-left {
+  float: left;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.float-right {
+  float: right;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.margin-top-20 {
+  margin-top: 20px;
+}
+
+.width-50 {
+  width: 50px;
+}
+
+.width-30 {
+  width: 30px;
+}

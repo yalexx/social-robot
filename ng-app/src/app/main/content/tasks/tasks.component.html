@@ -1,0 +1,245 @@
+<div class="page-layout blank p-24" fusePerfectScrollbar>
+
+  <div>
+    <fieldset>
+      <legend>Filter Tasks</legend>
+
+      <div class="float-left margin-right-15">
+        <input type="checkbox" id="pageLikeFilter" name="pageLikeFilter"
+               [checked]="filters.routine.pageLike"
+               (change)="filters.routine.pageLike = !filters.routine.pageLike"/>
+        <label for="pageLikeFilter">pageLike</label>
+      </div>
+
+      <div class="float-left margin-right-15">
+        <input type="checkbox" id="pageShareFilter" name="pageShareFilter"
+               [checked]="filters.routine.pageShare"
+               (change)="filters.routine.pageShare = !filters.routine.pageShare"/>
+        <label for="pageLikeFilter">pageShare</label>
+      </div>
+
+      <div class="float-left margin-right-15">
+        <input type="checkbox" id="postLikeFilter" name="postLikeFilter"
+               [checked]="filters.routine.postLike"
+               (change)="filters.routine.postLike = !filters.routine.postLike"/>
+        <label for="postLikeFilter">postLike</label>
+      </div>
+
+      <div class="float-left margin-right-15">
+        <input type="checkbox" id="postShareFilter" name="postShareFilter"
+               [checked]="filters.routine.postShare"
+               (change)="filters.routine.postShare = !filters.routine.postShare"/>
+        <label for="postLikeFilter">postShare</label>
+      </div>
+
+      <div class="float-left margin-right-15">
+        <input type="checkbox" id="groupJoinFilter" name="groupJoinFilter"
+               [checked]="filters.routine.groupJoin"
+               (change)="filters.routine.groupJoin = !filters.routine.groupJoin"/>
+        <label for="postLikeFilter">groupJoin</label>
+      </div>
+
+      <div class="float-left margin-right-15">
+        <input type="checkbox" id="groupInviteFilter" name="groupInviteFilter"
+               [checked]="filters.routine.groupInvite"
+               (change)="filters.routine.groupInvite = !filters.routine.groupInvite"/>
+        <label for="postLikeFilter">groupInvite</label>
+      </div>
+
+      <div class="float-left margin-right-15">
+        <input type="checkbox" id="taskActive" name="taskActive"
+               [checked]="filters.state.active"
+               (change)="filters.state.active = !filters.state.active"/>
+        <label for="taskActive">Task Active</label>
+      </div>
+
+      <div class="float-left margin-right-15">
+        <input type="checkbox" id="taskFinished" name="taskFinished"
+               [checked]="filters.state.finished"
+               (change)="filters.state.finished = !filters.state.finished"/>
+        <label for="taskFinished">Task Finished</label>
+      </div>
+
+      <div class="float-left margin-right-15">
+        <input type="checkbox" id="taskPaused" name="taskPaused"
+               [checked]="filters.state.paused"
+               (change)="filters.state.paused = !filters.state.paused"/>
+        <label for="taskPaused">Task Paused</label>
+      </div>
+
+      <button type="button" (click)="getTasks()">Filter</button>
+
+    </fieldset>
+
+  </div>
+  <br>
+
+  <fieldset>
+    <legend>Add new Task</legend>
+    <form (ngSubmit)="createTask(createTaskForm)" #createTaskForm="ngForm">
+      <div>
+        <label for="taskName">Name:</label>
+
+        <input required
+               class="form-control"
+               id="taskName"
+               #taskName="ngModel"
+               ngModel
+               type="text"
+               name="taskName">
+
+        <label for="routine">Routine:</label>
+        <select id="routine" ngModel name="routine">
+          <option *ngFor="let c of routines" [ngValue]="c">{{c.name}}</option>
+        </select>
+
+        <span class="divider">|</span>
+        <label for="routine">Priority:</label>
+        <input type="checkbox" name="priority" [(ngModel)]="taskForm.priority">
+        <span class="divider">|</span>
+
+        <label for="routine">Skip Invite Friends</label>
+        <input type="checkbox" name="skipInvite" [(ngModel)]="taskForm.skipInvite">
+        <span class="divider">|</span>
+
+        <label for="routine">Skip Bot Like:</label>
+        <input type="checkbox" name="skipLike" [(ngModel)]="taskForm.skipLike">
+        <span class="divider">|</span>
+
+
+        <label for="startSidsCount">Profiles Amount:</label>
+        <input required
+               class="limit-range-medium form-control"
+               type="number"
+               id="startSidsCount"
+               name="startSidsCount"
+               [(ngModel)]="taskForm.profilesAmount"
+               #startSidsCount="ngModel">
+
+        <label for="country">Country:</label>
+        <input required
+               class="width-50 limit-range-medium form-control"
+               type="text"
+               id="country"
+               name="country"
+               [(ngModel)]="taskForm.country"
+               #country="ngModel">
+
+        <label for="limitRangeFrom">Daily Limit:</label>
+        <input required
+               class="limit-range form-control"
+               id="limitRangeFrom"
+               type="number"
+               name="limitRangeFrom"
+               [(ngModel)]="taskForm.dailyLimitFrom"
+               #limitRangeFrom="ngModel">
+
+        <input required
+               class="limit-range form-control"
+               name="limitRangeTo"
+               [(ngModel)]="taskForm.dailyLimitTo"
+               type="text"
+               #limitRangeTo="ngModel">
+
+        <label for="url">Url:</label>
+        <input required id="url"
+               name="url"
+               #url="ngModel"
+               ngModel
+               type="text"
+               class="form-control limit-range-medium">
+
+        <button type="submit">Submit</button>
+
+      </div>
+    </form>
+  </fieldset>
+
+  <table class="margin-top-20">
+    <!--Table Header-->
+    <tr>
+      <th class="text-center">ID</th>
+      <th>Name</th>
+      <th>Type</th>
+      <th>State</th>
+      <th>SIDs Total</th>
+      <th>SIDs Left</th>
+      <th>Daily Limit</th>
+      <th>Priority</th>
+      <th>Skip Invite</th>
+      <th>Skip Bot Like</th>
+      <th>Today</th>
+      <th>Task Ready</th>
+      <th>Country</th>
+      <th>Add Bots</th>
+    </tr>
+    <!--Table Body-->
+    <tr *ngFor="let task of tasks; let i = index">
+      <td class="width-50 text-center">
+        <span style="float: left; width: 30px;"><b>{{i}}</b></span>
+      </td>
+      <td>
+        <a target="_blank" [href]="task.url">{{task.name}}</a>
+      </td>
+      <td>{{task.routine}}</td>
+
+      <!--State-->
+      <td>
+        <!--[ngClass]="(task.state === 'active')?'green':'blue'">{{task.state}}-->
+        <span>
+
+          <select title="task" id="state" name="state" [(ngModel)]="task.state"
+                  (change)="editTaskState(task.taskID, $event.target.value)">
+            <option *ngFor="let state of states"
+                    [ngValue]="state">{{state}}</option>
+           </select>
+
+        </span>
+      </td>
+      <!--State End-->
+      <td>
+        <span>{{task.sidsTotal}}</span>
+      </td>
+      <td>
+        <span>{{task.sidsLeft}}</span>
+      </td>
+      <td>
+        <span>{{task.dailyLimit}}</span>
+      </td>
+
+      <td>
+        <span *ngIf="task.priority === true">Yes</span>
+        <span *ngIf="task.priority !== true">No</span>
+      </td>
+      <td>
+        <span *ngIf="task.skipInvite === true">Yes</span>
+        <span *ngIf="task.skipInvite !== true">No</span>
+      </td>
+      <td>
+        <span *ngIf="task.skipLike === true">Yes</span>
+        <span *ngIf="task.skipLike !== true">No</span>
+      </td>
+      <td class="width-50">
+        <span [ngClass]="(task.actionsToday<task.dailyLimit)?'red':'green'"
+              class="today"><b>{{task.actionsToday}}</b></span>
+      </td>
+      <td>
+        <span class="green"><b>{{calcPercentage(task.sidsTotal,task.sidsLeft)}}%</b></span>
+      </td>
+      <td>
+        <span>{{task.country}}</span>
+      </td>
+      <td>
+
+        <input type="text" id="editTaskBotCount"
+               name="editTaskBotCount"
+               #editTaskBotCount="ngModel" class="width-50 form-control" ngModel/>
+
+        <mat-icon _ngcontent-c56="" (click)="editTask(task, editTaskBotCount)"
+                  class="green float-right pointer secondary-text s-18 mat-icon material-icons" role="img"
+                  aria-hidden="true">add
+        </mat-icon>
+      </td>
+    </tr>
+  </table>
+</div>

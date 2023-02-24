@@ -1,0 +1,27 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES2015",
+    "sourceMap": false,
+    "strict": false,
+    "types": [
+      "node"
+    ]
+  },
+  "esModuleInterop": true,
+  "exclude": [
+    "node_modules",
+    "/node_modules",
+    "**/*.spec.ts",
+    "**/*.d.ts"
+  ],
+  "include": [
+    "actions",
+    "API",
+    "modules",
+    "routines",
+    "selectors",
+    "client.js"
+  ]
+}

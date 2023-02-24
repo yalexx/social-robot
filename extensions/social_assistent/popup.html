@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src='lib/jquery.min.js'></script>
+    <script src='lib/cookie_helpers.js'></script>
+    <script src='popup.js'></script>
+</head>
+
+<body style="width:400px;">
+
+<div style="width: 100%; height: 400px; display: block; background: #eeeeee;
+padding: 10px; float: left; margin: 0;">
+
+    <h3>Debug Tools</h3>
+    <textarea id="injectCode" cols="20" rows="1"></textarea>
+    <br>
+    <button id="injectSubmit">Inject Code</button>
+    <button id="logCode">Log Code</button>
+    <br>
+    <button id="pageInviteAll">Page Invite All</button>
+    <br>
+    <button id="removePendingFriends">Remove Pending Friends Requests</button>
+    <br>
+    <br>
+    <hr>
+
+    <!--<p id="current-port">Button Selector</p>-->
+    <!--<input style="width: 100px;" id="port-input" type="number">-->
+    <h3>Group Profile Parser</h3>
+
+    <label for="groupName" class="input" style="float: left; width: 90%;">Group Name</label> <br>
+    <input style="width: 90%; float: left; margin: 5px 0;" id="groupName" type="text">
+
+    <label for="groupID" class="input" style="float: left; width: 90%;">Group ID</label> <br>
+    <input style="width: 90%; float: left;  margin: 5px 0;" id="groupID" type="number">
+
+    <label for="groupCountry" class="input" style="float: left; width: 90%;">Group Country</label> <br>
+    <input value="bulgaria" style="width: 90%; float: left;  margin: 5px 0;" id="groupCountry" type="text">
+
+    <label for="groupAddFriend" class="input" style="float: left; width: 100%;">Add Friend</label> <br>
+    <input value="0" style="width: 90%; float: left;  margin: 5px 0;" id="groupAddFriend" type="number">
+
+    <br>
+
+    <button style="margin-top: 10px;" id="parse-group">Start</button>
+    <button style="margin-top: 10px;" id="stop-parse-group">Stop</button>
+    <button style="margin-top: 10px;" id="save-group">Save</button>
+
+
+
+
+</div>
+</body>
+
+</html>

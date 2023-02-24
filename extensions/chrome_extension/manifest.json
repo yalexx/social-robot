@@ -1,0 +1,45 @@
+{
+  "manifest_version": 2,
+  "name": "LazyBOSS Plugin",
+  "description": "This extension is a BOSS.",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "lib/jquery.min.js",
+        "lib/socket.io.js",
+        "lib/system.js",
+        "index.js",
+        "popup.js"
+      ]
+    }
+  ],
+  "externally_connectable": {
+    "matches": [
+      "http://*/*",
+      "https://*/*"
+    ]
+  },
+  "background": {
+    "scripts": [
+      "lib/jquery.min.js",
+      "lib/socket.io.js",
+      "index.js",
+      "popup.js"
+    ]
+  },
+  "permissions": [
+    "http://*/",
+    "tabs",
+    "<all_urls>",
+    "storage"
+  ]
+}

@@ -1,0 +1,1 @@
+ssh -i "social-robot-server.pem" ubuntu@ec2-52-15-134-178.us-east-2.compute.amazonaws.com

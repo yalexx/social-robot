@@ -1,0 +1,138 @@
+{
+   "b0": {
+      "message": "確定"
+   },
+   "b1": {
+      "message": "取消"
+   },
+   "b2": {
+      "message": "查看我的瀏覽歷史"
+   },
+   "cache": {
+      "description": "Cache Viewer",
+      "message": "全部顯示;圖像;視頻 ;音頻;腳本;CSS;HTML;更新;無論內容類型都清除整個緩存!;正在搜索網址…;上一頁;當前頁;下一頁;視圖緩存資料;打開檔所在的目錄;沒有發現"
+   },
+   "calendar": {
+      "description": "Calendar",
+      "message": "1月;2月;3月;4月;5月;6月;7月;8月;9月;10月;11月;12月;日;一;二;三;四;五;六;星期日;星期一;星期二;星期三;星期四;星期五;星期六;前一年;下一年;上個月;下個月;今天;取消"
+   },
+   "cleaner1": {
+      "description": "Cleaner Buttons / Labels & Titles",
+      "message": "別忘了…;五星級率;捐贈;運行清潔器;歷史記錄;管理流覽歷史;聯繫人;説明;低的;中等的;高的;開發人員;開/關開發模式;清除模式;備份設置…;恢復設置…;移除 Google 網頁紀錄中的項目;停止同步，並清除所有已同步的 Chrome 資料;支援"
+   },
+   "cleaner2": {
+      "description": "Cleaner Options / Headers",
+      "message": "CHROME;行動;額外的;正常網站;網站已經被駐留的應用程式安裝;擴展和打包應用程式"
+   },
+   "cleaner3": {
+      "description": "Cleaner Options / Select Time Period",
+      "message": "清除這段時間內的以下項目：;開始當前會話;過去 1 小時;過去的2小時;過去的4小時;過去的8小時;過去的10小時;過去的12小時;過去的24小時;過去 1 週;-/-;不限時間"
+   },
+   "cleaner4": {
+      "description": "Cleaner Options / Labels",
+      "message": "關閉所有標籤再清理;清除瀏覽記錄;清除下載記錄;清空快取;刪除Cookies;清除已儲存的密碼;清除保存的表單數據;刪除本地存儲;刪除網站資料庫;刪除索引資料庫;刪除檔系統;清空應用程式緩存;刪除外掛程式資料;刪除Cookies;刪除本地存儲;刪除網站資料庫;刪除索引資料庫;刪除檔系統;清空應用程式緩存;刪除Cookies;刪除本地存儲;刪除網站資料庫;刪除索引資料庫;刪除檔系統;清空應用程式緩存;重新載入所有清除後的標籤;當流覽器關閉後刪除私人資料;清理之後關閉程式;任務完成時發出聲音;添加命令到上下文功能表;防止訪問默認的歷史頁面;顯示通知 (建議);在圖示上顯示數量"
+   },
+   "cleaner5": {
+      "description": "Cleaner Options / Custom Titles",
+      "message": "查看...;關閉全部標籤;現在重新載入所有選項卡(沒有清理);現在關閉流覽器(沒有清理);現在關閉應用程式(沒有清理);現在開始"
+   },
+   "cookies": {
+      "description": "Cookie manager",
+      "message": "全部勾選 / 全部不選;要刪除的 Cookies;要保留的 Cookies;更新;移除選取的項目;保持登錄狀態 "
+   },
+   "ctxMenu": {
+      "description": "Context Menu Items",
+      "message": "清除此站点信息;Open link anonymously (no referrer);Secure search Google for '%s'"
+   },
+   "days": {
+      "description": "Days of the week",
+      "message": "星期日;星期一;星期二;星期三;星期四;星期五;星期六"
+   },
+   "extDesc": {
+      "message": "當流覽器關閉時，這款應用程式刪除你的流覽歷史,防止他人跟蹤你的網上活動。"
+   },
+   "extName": {
+      "message": "Click&Clean"
+   },
+   "extTitle": {
+      "message": "Click&Clean"
+   },
+   "history": {
+      "description": "History Viewer",
+      "message": "根據標題的篩檢程式;更新;全部勾選 / 全部不選;移除選取的項目;沒有發現;導出為 HTML..."
+   },
+   "m0": {
+      "message": "新Click&Clean版本 $1 已經安裝成功!"
+   },
+   "m1": {
+      "message": "謝謝您使用Click&Clean !"
+   },
+   "m12": {
+      "message": "發生錯誤!"
+   },
+   "m2": {
+      "message": "軟體使你的生活更美好!"
+   },
+   "m20a": {
+      "message": "警告! Many extensions can store their settings here. If you select this option, any saved preferences will be deleted!"
+   },
+   "m20b": {
+      "message": "Many extensions can store their settings here. 您確定要繼續處理嗎?"
+   },
+   "m3": {
+      "message": "Attention! You haven't run a clean up on your browsing history for a while. This could put your private data at risk."
+   },
+   "m4": {
+      "message": "這只是實驗模式。並不是所有的特性都能按預期實現。根據你自己的風險使用!"
+   },
+   "m5a": {
+      "message": "警告!如果您選擇這個選項,任何保存的密碼將被刪除。"
+   },
+   "m5b": {
+      "message": "你確定你要刪除保存的密碼嗎?"
+   },
+   "m7": {
+      "message": "清除完成"
+   },
+   "m8": {
+      "message": "完畢"
+   },
+   "m9": {
+      "message": "不再顯示此資訊"
+   },
+   "menu": {
+      "description": "Popup Menu - Menu",
+      "message": "主選單;流覽器;系統;捐贈"
+   },
+   "menu0": {
+      "description": "Popup Menu - Main",
+      "message": "安全關閉流覽器;清除隱私資料;關閉全部的頁籤;快取...;清空快取;歷史記錄...;清除瀏覽記錄;擴充功能...;掃描惡意軟體…;下載...;清除下載記錄;隱藏模式;磁碟清理...;記憶體...;隱私測試;Cookies...;刪除Cookies;支援;選項...;出現;檢查更新;五星級率;Facebook;Google+;Twitter;Youtube"
+   },
+   "menu1": {
+      "description": "Popup Menu - Chrome",
+      "message": "外掛程式 ;擴充功能;實驗性;網路堆疊;DNS;歷史記錄;緩存;密碼產生器;版本;博客;衝突;政策;釋放;日曆;積分;漏洞"
+   },
+   "menu2": {
+      "description": "Popup Menu - System",
+      "message": "安全中心;資訊;卸載程式 ;碎片整理;聲音設定;網路連接 ;連接到一個網路 ;管理無線網路 ;設備;顯示設置;服務;DirectX 診斷"
+   },
+   "menu3": {
+      "description": "Popup Menu – Donate",
+      "message": "支持Click&Clean !;我們每個人都可以有助於使Click&Clean更有利於每個人!;捐贈;安全地通過支付寶;作為獎勵,每一個貢獻者將收到:;我們可以在任何時間修改這些條款。;1.在其他人之前訪問一個測試版本的Click&Clean。;2.通過電子郵件從Click&Clean團隊優先得到支持。;3.你的全名和一個你的個人簡介鏈結,博客、臉譜網頁面等將被添加到在網站頁面上的支;持者;。;不符合我們的標準時，我們將謹慎的保留你的權利，不鏈結你的個人簡介等到博客。;注意:;如果你希望你的捐贈保持匿名告訴我。"
+   },
+   "months": {
+      "description": "Months",
+      "message": "一月;二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+   },
+   "pgen": {
+      "description": "Password Generator",
+      "message": "密碼已經產生了。現在您可以拖曳它到任何欄位。;字元數目:;產生;複製;產生新密碼;複製產生的密碼到剪貼簿"
+   },
+   "share": {
+      "description": "Share Button / Titles",
+      "message": "在YouTube上訂閱我們的視頻;分享到Facebook;分享到Google +;分享到Twitter上;在Twitter上關注我們;通過郵件分享;在Pinterest關注我們"
+   },
+   "ver": {
+      "message": "9.3.0.0"
+   }
+}

@@ -1,0 +1,138 @@
+{
+   "b0": {
+      "message": "Ok"
+   },
+   "b1": {
+      "message": "Avbryt"
+   },
+   "b2": {
+      "message": "Visa min webbhistorik"
+   },
+   "cache": {
+      "description": "Cache Viewer",
+      "message": "Visa alla;Bilder;Videor;Audios;Skript;CSS;HTML;Uppdatera;Detta rensar cache-minnet oavsett vald innehållstyp!;Sök i URL...;Föregående sida;Aktuell sida;Nästa sida;Visa cachad data;Öppna objektets mapp;Hittade inga"
+   },
+   "calendar": {
+      "description": "Calendar",
+      "message": "Jan;Feb;Mar;Apr;Maj;Jun;Jul;Aug;Sep;Okt;Nov;Dec;Sö;Må;Ti;On;To;Fr;Lö;Söndag;Måndag;Tisdag;Onsdag;Torsdag;Fredag;Lördag;Föregående År;Nästa År;Föregående Månad;Nästa Månad;Idag;Avbryt"
+   },
+   "cleaner1": {
+      "description": "Cleaner Buttons / Labels & Titles",
+      "message": "Glöm inte...;Ge 5 Stjärnor;Donera;Starta städning;Historik;Hantera Bläddringshistorik;Support;Hjälp;Låg;Mellan;Hög;Dev;AV/PÅ Utvecklingskonsol;Rengöringsgrad;Säkerhetskopiera inställningar...;Återställ inställningar...;Ta bort poster från Google Webbhistorik;Avsluta synkroniseringen och rensa alla synkroniserade Chrome-data;Utseende"
+   },
+   "cleaner2": {
+      "description": "Cleaner Options / Headers",
+      "message": "CHROME;FLIKALTERNATIV;EXTRA;Normala webbsidor;Webbsidor som installerats via gästapplikationer;Tillägg och paketerade applikationer"
+   },
+   "cleaner3": {
+      "description": "Cleaner Options / Select Time Period",
+      "message": "Ta bort följande objekt från:;i början av nuvarande session;senaste timmen;de senaste 2 timmarna;de senaste 4 timmarna;de senaste 8 timmarna;de senaste 10 timmarna;de senaste 12 timmarna;det senaste dygnet;senaste veckan;-/-;tidens början"
+   },
+   "cleaner4": {
+      "description": "Cleaner Options / Labels",
+      "message": "Stäng alla flikar innan rengöring;Rensa webbhistorik;Rensa nedladdningshistorik;Töm cacheminnet;Ta bort cookies;Rensa sparade lösenord;Rensa sparade formulärdata;Ta bort lokallagring;Ta bort webSQL-databaser;Ta bort indexerade databaser;Ta bort filsystem;Töm applikation-cacheminnet;Ta bort data för insticksprogram;Ta bort cookies;Ta bort lokallagring;Ta bort webSQL-databaser;Ta bort indexerade databaser;Ta bort filsystem;Töm applikation-cacheminnet;Ta bort cookies;Ta bort lokallagring;Ta bort webSQL-databaser;Ta bort indexerade databaser;Ta bort filsystem;Töm applikation-cacheminnet;Ladda om aktiva flikar efter rengöring;Ta bort all privatdata när Chrome stängs;Avsluta Click&Clean efter städning;Spela ljud när det är klart;Lägg till kommando i innehållmenyn;Förbjud tillgång till huvudsakliga historiksidan;Aktivera meddelanden (rekommenderas);Visa nummer i fältet"
+   },
+   "cleaner5": {
+      "description": "Cleaner Options / Custom Titles",
+      "message": "Visa...;Stäng alla flikar;Hämta om alla flikar (utan rengöring );Stäng Chrome (utan rengöring );Stäng Programmet (utan rengöring );Spela nu"
+   },
+   "cookies": {
+      "description": "Cookie manager",
+      "message": "Markera Alla / Ingen;Cookies att radera;Cookies att spara;Uppdatera;Ta bort valda objekt;Håll mig inloggad"
+   },
+   "ctxMenu": {
+      "description": "Context Menu Items",
+      "message": "Glöm den här sidan;Open link anonymously (no referrer);Secure search Google for '%s'"
+   },
+   "days": {
+      "description": "Days of the week",
+      "message": "Söndag;Måndag;Tisdag;Onsdag;Torsdag;Fredag;Lördag"
+   },
+   "extDesc": {
+      "message": "Denna app raderar din bläddringshistorik när webbläsaren stängs och hindrar andra att spåra din internetanvändning."
+   },
+   "extName": {
+      "message": "Click&Clean"
+   },
+   "extTitle": {
+      "message": "Click&Clean"
+   },
+   "history": {
+      "description": "History Viewer",
+      "message": "Filtrera efter titel;Uppdatera;Markera Alla / Ingen;Ta bort valda objekt;Hittade inga;Exportera som HTML..."
+   },
+   "m0": {
+      "message": "Den nya Click&Clean-versionen $1 har blivit installerad!"
+   },
+   "m1": {
+      "message": "Tack för att Du använt Click&Clean!"
+   },
+   "m12": {
+      "message": "Ett fel uppstod!"
+   },
+   "m2": {
+      "message": "Mjukvara Skapt För Du Ska Ha Det Bättre!"
+   },
+   "m20a": {
+      "message": "Varning! Many extensions can store their settings here. If you select this option, any saved preferences will be deleted!"
+   },
+   "m20b": {
+      "message": "Many extensions can store their settings here. Vill du fortsätta?"
+   },
+   "m3": {
+      "message": "Attention! You haven't run a clean up on your browsing history for a while. This could put your private data at risk."
+   },
+   "m4": {
+      "message": "Detta är experimentläge. Alla funktioner kanske inte fungerar som väntat. Använd utifrån egen risk!"
+   },
+   "m5a": {
+      "message": "Varning! Om du väljer detta, så kommer alla sparade lösenord gå förlorade."
+   },
+   "m5b": {
+      "message": "Är du säker på att du vill ta bort sparade lösenord?"
+   },
+   "m7": {
+      "message": "Städning Klar"
+   },
+   "m8": {
+      "message": "Färdig"
+   },
+   "m9": {
+      "message": "Visa mig inte det här meddelandet igen"
+   },
+   "menu": {
+      "description": "Popup Menu - Menu",
+      "message": "Huvudmeny;Chrome;System;Donera"
+   },
+   "menu0": {
+      "description": "Popup Menu - Main",
+      "message": "Stäng webbläsaren i säkert läge;Rensa ut känslig data;Stäng alla flikar;Cache...;Töm cacheminnet;Historik...;Rensa webbhistorik;Tillägg...;Skannar efter skadlig Mjukvara (Malware)...;Nedladdade filer...;Rensa nedladdningshistorik;Inkognitoläget;Diskrensning...;Memory...;Privattest;Cookies...;Ta bort cookies;Återkoppling;Alternativ...;Utseende;Sök efter uppdatering;Ge 5 Stjärnor;Facebook;Google+;Twitter;Youtube"
+   },
+   "menu1": {
+      "description": "Popup Menu - Chrome",
+      "message": "Plugin-program;Tillägg;Experimenten;Nätverksstack;DNS;Historik;Cache;Lösenordsgenerator;Version;Bloggar;Konflikterna;Policyer;Lanseringar;Kalender;Credits;Buggar"
+   },
+   "menu2": {
+      "description": "Popup Menu - System",
+      "message": "Säkerhetscenter;Info;Avinstallera program;Defragmenteraren;Ljudinställningar;Nätverksanslutningar;Ansluta till ett nätverk;Hantera trådlösa nätverk;Enheter;Bildskärmsinställningar;Tjänster;DirectX"
+   },
+   "menu3": {
+      "description": "Popup Menu – Donate",
+      "message": "Stöd Click&Clean!;Vi kan alla bidra med att göra Click&Clean bättre för alla!;Donera;Betala säkert med PayPal;Som en bonus, får varje Bidragsgivare:;Vi kan ändra detta avtal när som helst.;1. Tillgång till beta-version av Click&Clean före alla andra.;2. Prioritet i supporten via e-post från Click&Clean-kundtjänst.;3. Ditt fulla namn och en länk till din bio, blogg, facebooksida, etc., kommer att läggas upp på;stödjarnas sida ;på webbsidan.;Vi reserverar oss rätten att inte placera en länk till din bio, blogg, etc., om, utan att vi säger något, inte uppfyller våra kriterier.;Notis: ;Var god och låt oss veta om du önskar att donera anonymt."
+   },
+   "months": {
+      "description": "Months",
+      "message": "Januari;Februari;Mars;April;Maj;Juni;Juli;Augusti;September;Oktober;November;December"
+   },
+   "pgen": {
+      "description": "Password Generator",
+      "message": "Ett lösenord har genererats. Dra-och-släpp det till valfritt fält.;Antal tecken:;Generera;Kopiera;Genererar ett nytt lösenord;Kopierar det genererade lösenordet till Urklipp"
+   },
+   "share": {
+      "description": "Share Button / Titles",
+      "message": "Prenumerera på vår Youtube-kanal;Dela på Facebook;Dela på Google+;Dela på Twitter;Följ oss på Twitter;Dela via E-post;Följ oss på Pinterest"
+   },
+   "ver": {
+      "message": "9.3.0.0"
+   }
+}

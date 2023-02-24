@@ -1,0 +1,138 @@
+{
+   "b0": {
+      "message": "确定"
+   },
+   "b1": {
+      "message": "取消"
+   },
+   "b2": {
+      "message": "查看我的浏览历史"
+   },
+   "cache": {
+      "description": "Cache Viewer",
+      "message": "全部显示;图像;视频;音频;脚本;CSS;HTML;刷新;无论内容类型都清除整个缓存!;正在搜索网址…;上一页;当前页;下一页;视图缓存数据;打开文件所在的目录;没有发现"
+   },
+   "calendar": {
+      "description": "Calendar",
+      "message": "1月;2月;3月;4月;5月;6月;7月;8月;9月;10月;11月;12月;日;一;二;三;四;五;六;星期日;星期一;星期二;星期三;星期四;星期五;星期六;前一年;下一年;上个月;下个月;今天;取消"
+   },
+   "cleaner1": {
+      "description": "Cleaner Buttons / Labels & Titles",
+      "message": "别忘了…;五星级率;捐赠;运行清洁器;历史记录;管理浏览历史;联系人;帮助;低的;中等的;高的;开发人员;开/关开发模式;清除模式;备份设置…;恢复设置…;删除 Google 网络历史记录中的项;停止同步并清除所有已同步的 Chrome 浏览器数据;出现"
+   },
+   "cleaner2": {
+      "description": "Cleaner Options / Headers",
+      "message": "CHROME;行动;额外的;正常网站;网站已经被驻留的应用程序安装;扩展和打包应用程序"
+   },
+   "cleaner3": {
+      "description": "Cleaner Options / Select Time Period",
+      "message": "清除该时间段内的以下项：;开始当前会话;过去一小时;过去的2小时;过去的4小时;过去的8小时;过去的10小时;过去的12小时;过去的24小时;最近一周;-/-;全部"
+   },
+   "cleaner4": {
+      "description": "Cleaner Options / Labels",
+      "message": "关闭所有标签再清理;清除浏览历史记录;清除下载历史记录;清空缓存;删除 Cookie ;清除已保存的密码;清除保存的表单数据;删除本地存储;删除网站数据库;删除索引数据库;删除文件系统;清空应用程序缓存;删除插件数据;删除 Cookie ;删除本地存储;删除网站数据库;删除索引数据库;删除文件系统;清空应用程序缓存;删除 Cookie ;删除本地存储;删除网站数据库;删除索引数据库;删除文件系统;清空应用程序缓存;重新加载清除后的有源标签;当浏览器关闭后删除私人数据;清理之后关闭程序;任务完成时发出声音;添加命令到上下文菜单;防止访问默认的历史页面;显示通知（推荐）;在图标上显示数量"
+   },
+   "cleaner5": {
+      "description": "Cleaner Options / Custom Titles",
+      "message": "查看...;关闭全部标签;现在重新加载所有选项卡(没有清理);现在关闭浏览器(没有清理);现在关闭应用程序(没有清理);现在开始"
+   },
+   "cookies": {
+      "description": "Cookie manager",
+      "message": "全选 / 取消全选;要删除的 Cookies;要保留的 Cookies;刷新;删除选中项目;保持登录状态 "
+   },
+   "ctxMenu": {
+      "description": "Context Menu Items",
+      "message": "清除此站点信息;Open link anonymously (no referrer);Secure search Google for '%s'"
+   },
+   "days": {
+      "description": "Days of the week",
+      "message": "星期日;星期一;星期二;星期三;星期四;星期五;星期六"
+   },
+   "extDesc": {
+      "message": "当浏览器关闭时，这款应用程序删除你的浏览历史,防止他人跟踪你的网上活动。"
+   },
+   "extName": {
+      "message": "Click&Clean"
+   },
+   "extTitle": {
+      "message": "Click&Clean"
+   },
+   "history": {
+      "description": "History Viewer",
+      "message": "根据标题的过滤器;刷新;全选 / 取消全选;删除选中项目;没有发现;导出为 HTML..."
+   },
+   "m0": {
+      "message": "新Click&Clean版本 $1 已经安装成功!"
+   },
+   "m1": {
+      "message": "谢谢您使用Click&Clean !"
+   },
+   "m12": {
+      "message": "发生了错误!"
+   },
+   "m2": {
+      "message": "软件使你的生活更美好!"
+   },
+   "m20a": {
+      "message": "警告! Many extensions can store their settings here. If you select this option, any saved preferences will be deleted!"
+   },
+   "m20b": {
+      "message": "Many extensions can store their settings here. 是否确实要继续?"
+   },
+   "m3": {
+      "message": "Attention! You haven't run a clean up on your browsing history for a while. This could put your private data at risk."
+   },
+   "m4": {
+      "message": "这只是实验模式。并不是所有的特性都能按预期实现。根据你自己的风险使用!"
+   },
+   "m5a": {
+      "message": "警告!如果您选择这个选项,任何保存的密码将被删除。"
+   },
+   "m5b": {
+      "message": "你确定你要删除保存的密码吗?"
+   },
+   "m7": {
+      "message": "清除完成"
+   },
+   "m8": {
+      "message": "完毕"
+   },
+   "m9": {
+      "message": "不再显示此信息"
+   },
+   "menu": {
+      "description": "Popup Menu - Menu",
+      "message": "主菜单;浏览器;系统;捐赠"
+   },
+   "menu0": {
+      "description": "Popup Menu - Main",
+      "message": "安全关闭浏览器;清除隐私数据;关闭全部标签;缓存...;清空缓存;历史记录...;清除浏览历史记录;扩展程序...;扫描恶意软件…;下载内容...;清除下载历史记录;无痕浏览;磁盘清理…;内存...;隐私测试;Cookies...;删除 Cookies ;支援;选项...;出现;检查更新;五星级率;Facebook;Google+;Twitter;Youtube"
+   },
+   "menu1": {
+      "description": "Popup Menu - Chrome",
+      "message": "插件;扩展程序;实验;网络堆栈;DNS;历史记录;缓存;密码生成器;版本;博客;冲突;政策;释放;日曆;积分;漏洞 "
+   },
+   "menu2": {
+      "description": "Popup Menu - System",
+      "message": "安全中心;信息;卸载程序;整理磁盘碎片;声音设定;网络连接 ;连接到一个网络;管理无线网络 ;设备;显示设置;服务;技术诊断"
+   },
+   "menu3": {
+      "description": "Popup Menu – Donate",
+      "message": "支持Click&Clean !;我们每个人都可以有助于使Click&Clean更有利于每个人!;捐赠;安全地通过支付宝;作为奖励,每一个贡献者将收到:;我们可以在任何时间修改这些条款。;1.在其他人之前访问一个测试版本的Click&Clean。;2.通过电子邮件优先得到从=来自Click&Clean团队的支持。;3.你的全名和一个你的个人简介链接,博客、脸谱网页面等将被添加到在网站页面上的支;持者;.;不符合我们的标准时，我们将谨慎的保留你的权利，不链接你的个人简介等到博客。;注意:;如果你希望你的捐赠保持匿名告诉我。"
+   },
+   "months": {
+      "description": "Months",
+      "message": "1月;2月;3月;4月;5月;6月;7月;8月;9月;10月;11月;12月"
+   },
+   "pgen": {
+      "description": "Password Generator",
+      "message": "密码已生成。您现在可以将其拖放到任意字段。;字符数目:;生成新密码;复制;生成新密码;复制生成的密码到剪贴板"
+   },
+   "share": {
+      "description": "Share Button / Titles",
+      "message": "在YouTube上订阅我们的视频;分享到Facebook;分享到Google +;分享到Twitter上;在Twitter上关注我们;通过邮件分享;在Pinterest关注我们"
+   },
+   "ver": {
+      "message": "9.3.0.0"
+   }
+}

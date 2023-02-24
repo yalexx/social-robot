@@ -1,0 +1,138 @@
+{
+   "b0": {
+      "message": "확인"
+   },
+   "b1": {
+      "message": "취소"
+   },
+   "b2": {
+      "message": "인터넷 사용 기록 보기"
+   },
+   "cache": {
+      "description": "Cache Viewer",
+      "message": "모두 보기;이미지;동영상;오디오;스크립트;CSS;HTML;새로 고침;선택된 내용 타입에 상관없이 모든 캐시를 삭제합니다! ;URL에서 검색합니다…;이전페이지;현재페이지;다음페이지;캐시화된 데이터 보기;상위 폴더 열기;찾을 수 없습니다"
+   },
+   "calendar": {
+      "description": "Calendar",
+      "message": "1월;2월;3월;4월;5월;6월;7월;8월;9월;10월;11월;12월;일;월;화;수;목;금;토;일요일;월요일;화요일;수요일;목요일;금요일;토요일;지난해;다음해;지난달;다음달;오늘;취소"
+   },
+   "cleaner1": {
+      "description": "Cleaner Buttons / Labels & Titles",
+      "message": "잊지마세요:;별점 5개 주기;기부하다;정리 시작;방문 기록;브라우징 히스토리 관리;기술 지원;도움말;낮은;중간;높음;개발자;개발자 모드 켜기/끄기;클리닝 모드;백업 환경설정…;복구 환경설정…;Google 웹 기록에서 개별 항목 삭제;동기화를 중단하고 동기화된 Chrome 데이터를 삭제합니다;외관"
+   },
+   "cleaner2": {
+      "description": "Cleaner Options / Headers",
+      "message": "CHROME;액션;엑스트라;정상 웹사이트;호스트 어플리케이션으로 설치된 웹사이트들;익스텐션 및 패키지된 어플리케이션들"
+   },
+   "cleaner3": {
+      "description": "Cleaner Options / Select Time Period",
+      "message": "다음 항목 삭제:;현재 세션 시작점;지난 1시간;지난 2시간;지난 4시간;지난 8시간;지난 10시간;지난 12시간;지난 24시간;지난 1주;-/-;전체"
+   },
+   "cleaner4": {
+      "description": "Cleaner Options / Labels",
+      "message": "클리닝전에 모든 탭 닫기;인터넷 사용정보 삭제;다운로드 기록 삭제;캐시 삭제;쿠키 삭제;저장된 비밀번호 삭제;저장된 양식 데이터 삭제;로컬 저장공간 삭제;webSQL 데이터베이스 삭제;인덱스화된 데이터베이스 삭제;파일 시스템 삭제;애플리케이션 캐시 비우기;플러그인 데이터 삭제;쿠키 삭제;로컬 저장공간 삭제;webSQL 데이터베이스 삭제;인덱스화된 데이터베이스 삭제;파일 시스템 삭제;애플리케이션 캐시 비우기;쿠키 삭제;로컬 저장공간 삭제;webSQL 데이터베이스 삭제;인덱스화된 데이터베이스 삭제;파일 시스템 삭제;애플리케이션 캐시 비우기;클리닝후 활성 탭을 복원;Chrome이 닫힐시 개인 데이터 삭제;정리 후 Click&Clean 종료;작업이 완료될시 사운드 재생;Context 메뉴에 명령어 추가;기본 히스토리 페이지에 접근 금지;알림 표시(권장);아이콘에 차단된 광고 개수 표시"
+   },
+   "cleaner5": {
+      "description": "Cleaner Options / Custom Titles",
+      "message": "보기...;모든 탭을 닫기;모든 탭 복구 (클린업 없이);지금 Chrome 닫기 (클린업 없이);지금 앱 닫기 (클린업 없이);지금 재생하기"
+   },
+   "cookies": {
+      "description": "Cookie manager",
+      "message": "모두 선택 / 모두 선택 해제;삭제;보관;새로 고침;선택한 항목 삭제;로그인 상태로 지속"
+   },
+   "ctxMenu": {
+      "description": "Context Menu Items",
+      "message": "Forget this Page;Open link anonymously (no referrer);Secure search Google for '%s'"
+   },
+   "days": {
+      "description": "Days of the week",
+      "message": "일요일;월요일;화요일;수요일;목요일;금요일;토요일"
+   },
+   "extDesc": {
+      "message": "상기 앱은 브라우져가 닫힐시 브라우징 히스토리를 삭제하며 온라인 활동 추적을 막습니다"
+   },
+   "extName": {
+      "message": "Click&Clean"
+   },
+   "extTitle": {
+      "message": "Click&Clean"
+   },
+   "history": {
+      "description": "History Viewer",
+      "message": "제목으로 필터링;새로 고침;모두 선택 / 모두 선택 해제;선택한 항목 삭제;찾을 수 없습니다;HTML로 내보내기..."
+   },
+   "m0": {
+      "message": "새로운 Click&Clean 버젼 $1이 성공적으로 설치되었습니다!"
+   },
+   "m1": {
+      "message": "Click&Clean을 사용해주셔서 감사합니다!"
+   },
+   "m12": {
+      "message": "오류가 발생했습니다!"
+   },
+   "m2": {
+      "message": "당신의 삶을 진화시킬 소프트웨어!"
+   },
+   "m20a": {
+      "message": "경고! Many extensions can store their settings here. If you select this option, any saved preferences will be deleted!"
+   },
+   "m20b": {
+      "message": "Many extensions can store their settings here. 계속하시겠습니까?"
+   },
+   "m3": {
+      "message": "Attention! You haven't run a clean up on your browsing history for a while. This could put your private data at risk."
+   },
+   "m4": {
+      "message": "실험모드입니다. 모든 기능들이 계획적으로 작동하지 않을 수 있습니다. 어떠한 경우에도 책임을 지지않습니다."
+   },
+   "m5a": {
+      "message": "경고! 상기 옵션을 선택하면, 저장된 모든 비밀번호들이 삭제됩니다."
+   },
+   "m5b": {
+      "message": "저장된 비밀번호들을 정말 삭제하시겠습니까?"
+   },
+   "m7": {
+      "message": "정리 완료"
+   },
+   "m8": {
+      "message": "완료"
+   },
+   "m9": {
+      "message": "이 메시지 다시 표시하지 않기"
+   },
+   "menu": {
+      "description": "Popup Menu - Menu",
+      "message": "메인메뉴;Chrome;시스템;기부하다"
+   },
+   "menu0": {
+      "description": "Popup Menu - Main",
+      "message": "브라우저 안전하게 닫기;개인 데이터 삭제;모든 탭을 닫기;캐시...;캐시 삭제;방문 기록...;인터넷 사용정보 삭제;확장 프로그램...;악성 코드를 검색...;다운로드...;다운로드 기록 삭제;시크릿 모드를;디스크 정리...;메모리...;프라이버시 테스트;쿠키...;쿠키 삭제;기술 지원;옵션...;외관;업데이트 확인;별점 5개 주기;페이스북;구글 +;트위터;유튜브"
+   },
+   "menu1": {
+      "description": "Popup Menu - Chrome",
+      "message": "플러그인;확장 프로그램;실험실 기능;네트워크 스택;DNS;방문 기록;캐시;암호 생성기;버전;블로그;충돌;정책;릴리즈;캘린더;크레딧;버그"
+   },
+   "menu2": {
+      "description": "Popup Menu - System",
+      "message": "보안 센터;정보;프로그램 제거;디스크 조각모음;사운드 설정;네트워크 연결;네트워크에 연결;무선 네트워크 관리;장치;디스플레이 환경설정;서비스;DirectX 진단 도구"
+   },
+   "menu3": {
+      "description": "Popup Menu – Donate",
+      "message": "Click&Clean을 지원해주세요!;Click&Clean이 모든 사용자들에게 더 좋은 서비스를 제공할 수 있도록 우리 모두 도울 수 있습니다!;기부하다;페이팔을 통해 안전하게;보너스식으로, 각 지원자는 다음을 받습니다:;기간은 언제든지 바뀔 수 있습니다.;1. 다른 사용자들보다도 Click&Clean 베타버젼을 더 빨리 체험하세요.;2. Click&Clean 팀에서 이메일로 우선 지원받으세요.;3. 전체 이름, 자기소개 링크, 블로그, 페이스북 페이지 등이 웹사이트;서포터즈 ;페이지에 추가됩니다.;저희 판단을 기준으로 자체 심의에 맞지않을시 귀하 소개, 블로그 등의 링크를 포함하지 않을 수 있는 권리가 있습니다.;알림: ;익명으로 기부하고 싶으시면 미리 알려주시기 바랍니다."
+   },
+   "months": {
+      "description": "Months",
+      "message": "1월;2월;3월;4월;5월;6월;7월;8월;9월;10월;11월;12월"
+   },
+   "pgen": {
+      "description": "Password Generator",
+      "message": "암호가 생성되었습니다. 원하는 필드로 드래그하세요.;암호 자리수: ;만들기;복사;새 암호 만들기;생성된 암호를 클립보드에 복사합니다"
+   },
+   "share": {
+      "description": "Share Button / Titles",
+      "message": "유튜브에 업로드된 비디오 구독;Facebook에서 공유;Google+에서 공유;Twitter에서 공유;트위터에 우리를 따르라;이메일로 공유;Pinterest에 우리를 따르라"
+   },
+   "ver": {
+      "message": "9.3.0.0"
+   }
+}

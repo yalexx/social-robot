@@ -1,0 +1,138 @@
+{
+   "b0": {
+      "message": "Ok"
+   },
+   "b1": {
+      "message": "Annuleren"
+   },
+   "b2": {
+      "message": "Zie Uw browsegeschiedenis"
+   },
+   "cache": {
+      "description": "Cache Viewer",
+      "message": "Alles tonen;Afbeeldingen;Video's;Audio's;Scripts;CSS;HTML;Vernieuwen;Dit verwijdert alles in de cache, ongeacht welk type inhoud er wordt gekozen!;Zoeken in URL...;Vorige pagina;Huidige pagina;Volgende pagina;Zie bewaarde gegevens;Bevattende map openen;Geen gevonden"
+   },
+   "calendar": {
+      "description": "Calendar",
+      "message": "Jan;Feb;Mrt;Apr;Mei;Jun;Jul;Aug;Sep;Okt;Nov;Dec;Zo;Ma;Di;Wo;Do;Vr;Za;Zondag;Maandag;Dinsdag;Woensdag;Donderdag;Vrijdag;Zaterdag;Vorig jaar;Volgend jaar;Vorige maand;Volgende maand;Vandaag;Annuleren"
+   },
+   "cleaner1": {
+      "description": "Cleaner Buttons / Labels & Titles",
+      "message": "Vergeet niet te...;Waardeer 5 sterren;Doneer;Schoonmaken;Geschiedenis;Beheer bezochte pagina's;Contacteer;Help;Laag;Middel;Hoog;Dev;Schakel Ontwikkelaarsmodule AAN/UIT;Schoonmaken-modus;Reserve kopie instellingen...;Instellingen herstellen...;Items verwijderen uit uw Google Webgeschiedenis;Synchronisatie stopzetten en alle gesynchroniseerde Chrome-gegevens wissen;Uiterlijk"
+   },
+   "cleaner2": {
+      "description": "Cleaner Options / Headers",
+      "message": "CHROME;AKTIES;EXTRA;Normaal websites;Websites die als gehoste applicaties zijn geïnstalleerd;Uitbreidingen en packaged applicaties"
+   },
+   "cleaner3": {
+      "description": "Cleaner Options / Select Time Period",
+      "message": "De volgende items verwijderen van:;het begin van de huidige sessie;het afgelopen uur;de afgelopen 2 uren;de afgelopen 4 uren;de afgelopen 8 uren;de afgelopen 10 uren;de afgelopen 12 uren;de afgelopen 24 uren;de afgelopen week;-/-;het eerste gebruik"
+   },
+   "cleaner4": {
+      "description": "Cleaner Options / Labels",
+      "message": "Sluit alle tabbladen vooraf het wissen;Browsegeschiedenis wissen;Downloadgeschiedenis wissen;Het cachegeheugen leegmaken;Cookies verwijderen;Opgeslagen wachtwoorden wissen;Opgeslagen formuliergegevens wissen;Lokale opslag verwijderen;Verwijder webSQL gegevensbestanden ;Verwijder Geïndexeerde gegevensbestanden;Opbergsysteem verwijderen;Leeg applicatie cache;Plug-in-gegevens wissen;Cookies verwijderen;Lokale opslag verwijderen;Verwijder webSQL gegevensbestanden ;Verwijder Geïndexeerde gegevensbestanden;Opbergsysteem verwijderen;Leeg applicatie cache;Cookies verwijderen;Lokale opslag verwijderen;Verwijder webSQL gegevensbestanden ;Verwijder Geïndexeerde gegevensbestanden;Opbergsysteem verwijderen;Leeg applicatie cache;Actieve tabbladen vernieuwen na het opschonen;Verwijder privé gegevens wanneer Chrome sluit;Sluit het applicatie na het schoonmaken;Speel een geluid als de taak is beëindigd;Voeg commando’s toe aan het contextmenu;Voorkom toegang tot de standaard geschiedenis-bladzijde;Berichten inschakelen (aanbevolen);Nummer weergeven in pictogram"
+   },
+   "cleaner5": {
+      "description": "Cleaner Options / Custom Titles",
+      "message": "Bekijk details;Alle tabs sluiten;Vernieuw alle tabbladen (zonder opschoning);Sluit Chrome nu (zonder opschoning);Sluit App nu af (zonder opschoning);Speel nu"
+   },
+   "cookies": {
+      "description": "Cookie manager",
+      "message": "Alles selecteren / Niets selecteren;Te verwijderen cookies;Te behouden cookies;Vernieuwen;Geselecteerde items verwijderen;Houd me ingelogd"
+   },
+   "ctxMenu": {
+      "description": "Context Menu Items",
+      "message": "Deze website vergeten;Open link anonymously (geen referrer);Secure search Google for '%s'"
+   },
+   "days": {
+      "description": "Days of the week",
+      "message": "Zondag;Maandag;Dinsdag;Woensdag;Donderdag;Vrijdag;Zaterdag"
+   },
+   "extDesc": {
+      "message": "Deze applicatie verwijdert je zoekgeschiedenis en voorkomt het achterhalen van je online activiteiten."
+   },
+   "extName": {
+      "message": "Click&Clean"
+   },
+   "extTitle": {
+      "message": "Click&Clean"
+   },
+   "history": {
+      "description": "History Viewer",
+      "message": "Filter op titel;Vernieuwen;Alles selecteren / Niets selecteren;Geselecteerde items verwijderen;Geen gevonden;Exporteren als HTML..."
+   },
+   "m0": {
+      "message": "De nieuwe Click&clean versie $1 is succesvol geïnstalleerd!"
+   },
+   "m1": {
+      "message": "Bedankt voor het gebruiken van Click&Clean!"
+   },
+   "m12": {
+      "message": "Er is een fout opgetreden!"
+   },
+   "m2": {
+      "message": "Software om jouw leven te vergemakkelijken!"
+   },
+   "m20a": {
+      "message": "Waarschuwing! Many extensions can store their settings here. If you select this option, any saved preferences will be deleted!"
+   },
+   "m20b": {
+      "message": "Many extensions can store their settings here. Weet u zeker dat u wilt doorgaan?"
+   },
+   "m3": {
+      "message": "Attention! You haven't run a clean up on your browsing history for a while. This could put your private data at risk."
+   },
+   "m4": {
+      "message": "Dit is een experimentele fase. Niet alle functies zullen werken zoals wordt verwacht. Gebruik op eigen risico!"
+   },
+   "m5a": {
+      "message": "Waarschuwing! Als je deze optie selecteert zullen alle bewaarde wachtwoorden worden gewist."
+   },
+   "m5b": {
+      "message": "Wil je echt opgeslagen wachtwoorden verwijderen?"
+   },
+   "m7": {
+      "message": "Verwijdering Compleet"
+   },
+   "m8": {
+      "message": "Voltooid"
+   },
+   "m9": {
+      "message": "Dit bericht voortaan niet meer weergeven"
+   },
+   "menu": {
+      "description": "Popup Menu - Menu",
+      "message": "Hoofd-;Chrome;Systeem;Doneer"
+   },
+   "menu0": {
+      "description": "Popup Menu - Main",
+      "message": "Sluit browser veilig;Privé-gegevens wissen;Alle tabs sluiten;Cache...;Het cachegeheugen leegmaken;Geschiedenis...;Browsegeschiedenis wissen;Extensies...;Scannen op malware...;Downloads...;Downloadgeschiedenis wissen;Incognito;Schijfopruiming...;Geheugen...;Geheimhoudings-toets;Cookies...;Cookies verwijderen;Beoordelingen;Opties...;Uiterlijk;Controleren op nieuwe versies;Waardeer 5 sterren;Facebook;Google+;Twitter;Youtube"
+   },
+   "menu1": {
+      "description": "Popup Menu - Chrome",
+      "message": "Plug-ins;Extensies;Experimenten;Network Stack;DNS;Geschiedenis;Cache;Wachtwoord Generator;Versie;Blog;Conflicten;Beleid;Releases;Kalender;Dankbetuigingen ;Bugs"
+   },
+   "menu2": {
+      "description": "Popup Menu - System",
+      "message": "Beveiligingscentrum;Info;Verwijderen van programma's;Defragmenteerder;Geluidsinstellingen;Netwerkverbindingen;Aansluiten op een netwerk;Draadloze netwerken beheren;Apparaten;Beeldscherminstellingen;Diensten;DirectX Diagnostic"
+   },
+   "menu3": {
+      "description": "Popup Menu – Donate",
+      "message": "Ondersteun Click&Clean!;We kunnen er allemaal toe bijdragen dat Click&Clean voor ons allemaal beter wordt.;Doneer;Veilig via PayPal;Iedere Donateur krijgt als beloning:;Wij kunnen deze voorwaarden elk moment veranderen.;1. Toegang tot een proef-versie van de Click&Clean voor ieder ander.;2. Prioriteit bij ondersteuning via e-mail van het Click&Clean team.;3. Je volledige naam en een link naar je bio, blog, facebook page, enz zal worden toegevoegd aan de;ondersteunings-bladzijde ;van de website.;Wij behouden ons het recht voor geen link te plaatsen naar je bio, blog, enz, die volgens onze inzichten niet voldoen aan onze criteria.;NB:;Laat ons alsjeblieft weten als je wilt dat je donatie anoniem blijft."
+   },
+   "months": {
+      "description": "Months",
+      "message": "Januari;Februari;Maart;April;Mei;Juni;Juli;Augustus;September;Oktober;November;December"
+   },
+   "pgen": {
+      "description": "Password Generator",
+      "message": "Het wachtwoord is gegenereerd. Sleep of plak het naar elk veld.;Aantal tekens: ;Nieuw Genereren;Kopiëren;Nieuw wachtwoord genereren;Het gegenereerde wachtwoord naar het klembord kopiëren"
+   },
+   "share": {
+      "description": "Share Button / Titles",
+      "message": "Abonneren op ons YouTube kanaal;Deel op Facebook;Deel op Google+;Deel op Twitter;Volg ons op Twitter;Deel via mail;Volg ons op Pinterest"
+   },
+   "ver": {
+      "message": "9.3.0.0"
+   }
+}

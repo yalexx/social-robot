@@ -1,0 +1,138 @@
+{
+   "b0": {
+      "message": "Ok"
+   },
+   "b1": {
+      "message": "Cancel"
+   },
+   "b2": {
+      "message": "View My Browsing History"
+   },
+   "cache": {
+      "description": "Cache Viewer",
+      "message": "All Items;Images;Videos;Audios;Scripts;CSS;HTML;Refresh;This clears the entire cache regardless of content type chosen!;Search in URL...;Previous page;Current page;Next page;View cached data;Open containing folder;None found"
+   },
+   "calendar": {
+      "description": "Calendar",
+      "message": "Jan;Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov;Dec;Su;Mo;Tu;We;Th;Fr;Sa;Sunday;Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Previous Year;Next Year;Previous Month;Next Month;Today;Cancel"
+   },
+   "cleaner1": {
+      "description": "Cleaner Buttons / Labels & Titles",
+      "message": "Don't forget to...;Rate 5 Stars;Donate;Run Cleaner;History;Manage Browsing History;Support;Help;Low;Medium;High;Dev;ON/OFF Developer Mode;Cleaning Mode;Back up settings...;Restore settings...;Remove items from your Google Web History;Stop syncing and clear all synced Chrome data;Change appearance"
+   },
+   "cleaner2": {
+      "description": "Cleaner Options / Headers",
+      "message": "CHROME;ACTIONS;EXTRA;Normal websites;Websites that have been installed as hosted applications;Extensions and packaged applications"
+   },
+   "cleaner3": {
+      "description": "Cleaner Options / Select Time Period",
+      "message": "Obliterate the following items from: ;the beginning of current session;the past hour;the past 2 hours;the past 4 hours;the past 8 hours;the past 10 hours;the past 12 hours;the past 24 hours;the past week;-/-;the beginning of time"
+   },
+   "cleaner4": {
+      "description": "Cleaner Options / Labels",
+      "message": "Close all tabs before cleaning;Clear browsing history;Clear download history;Empty the cache;Delete cookies;Clear saved passwords;Clear saved form data;Delete local storage;Delete webSQL databases;Delete indexed databases;Delete file systems;Empty application cache;Delete plug-in data;Delete cookies;Delete local storage;Delete webSQL databases;Delete indexed databases;Delete file systems;Empty application cache;Delete cookies;Delete local storage;Delete webSQL databases;Delete indexed databases;Delete file systems;Empty application cache;Reload active tabs after cleaning;Delete private data when Chrome closes;Close App after cleaning;Play sound when task finished;Add commands to context menu;Prevent access to the default history page;Turn on notifications (recommended);Show total number of pages you have visited"
+   },
+   "cleaner5": {
+      "description": "Cleaner Options / Custom Titles",
+      "message": "View Details;Close all tabs now;Reload all tabs now (without cleanup);Close Chrome now (without cleanup);Close App now (without cleanup);Play now"
+   },
+   "cookies": {
+      "description": "Cookie manager",
+      "message": "Select All / None;Cookies to delete;Cookies to keep;Refresh;Remove selected items;Keep me signed in"
+   },
+   "ctxMenu": {
+      "description": "Context Menu Items",
+      "message": "Forget this Page;Open link anonymously (no referrer);Secure search Google for '%s'"
+   },
+   "days": {
+      "description": "Days of the week",
+      "message": "Sunday;Monday;Tuesday;Wednesday;Thursday;Friday;Saturday"
+   },
+   "extDesc": {
+      "message": "Deletes typed URLs, Cache, Cookies, your Download and Browsing History...instantly, with just 1-click on Click&Clean button!"
+   },
+   "extName": {
+      "message": "Click&Clean"
+   },
+   "extTitle": {
+      "message": "Click&Clean"
+   },
+   "history": {
+      "description": "History Viewer",
+      "message": "Filter by title;Refresh;Select All / None;Remove selected items;None found;Export as HTML..."
+   },
+   "m0": {
+      "message": "The new Click&Clean version $1 has been installed successfully!"
+   },
+   "m1": {
+      "message": "Thank You for using Click&Clean!"
+   },
+   "m12": {
+      "message": "An error occurred!"
+   },
+   "m2": {
+      "message": "Software Made to Make Your Life Better!"
+   },
+   "m20a": {
+      "message": "Warning! Many extensions can store their settings here. If you select this option, any saved preferences will be reset!"
+   },
+   "m20b": {
+      "message": "Many extensions can store their settings here. Are you sure you want to proceed?"
+   },
+   "m3": {
+      "message": "Attention! You haven't run a clean up on your browsing history for a while. This could put your private data at risk."
+   },
+   "m4": {
+      "message": "This is experimental mode. Not all features may work as expected. Use it at your own risk!"
+   },
+   "m5a": {
+      "message": "Warning! If you select this option, any saved passwords will be deleted."
+   },
+   "m5b": {
+      "message": "Are you sure you want to delete saved passwords?"
+   },
+   "m7": {
+      "message": "Cleaning Complete"
+   },
+   "m8": {
+      "message": "Done"
+   },
+   "m9": {
+      "message": "Do not show me this message again"
+   },
+   "menu": {
+      "description": "Popup Menu - Menu",
+      "message": "Main;Chrome;System;Donate"
+   },
+   "menu0": {
+      "description": "Popup Menu - Main",
+      "message": "Securely close browser;Clear Private Data;Close all Tabs;Cache...;Empty the cache;History...;Clear browsing history;Extensions...;Scan for Malware...;Downloads...;Clear download history;Incognito;Disk Cleanup...;Memory...;Privacy Test;Cookies...;Delete cookies;Feedback;Options...;Appearance;Check for Updates;Rate 5 Stars;Facebook;Google+;Twitter;Youtube"
+   },
+   "menu1": {
+      "description": "Popup Menu - Chrome",
+      "message": "Plug-ins;Extensions;Experiments;Network Stack;DNS;History;Cache;Generate Passwords;Version;Blog;Conflicts;Policies;Releases;Calendar;Credits;Bugs"
+   },
+   "menu2": {
+      "description": "Popup Menu - System",
+      "message": "Security Center;Info;Uninstall Programs;Defragmenter;Sound Settings;Network Connections;Connect to a network;Manage wireless networks;Devices;Display Settings;Services;DirectX Diagnostic"
+   },
+   "menu3": {
+      "description": "Donate Tab",
+      "message": "Support Click&Clean Development;Each of us can contribute to make the Click&Clean better for everyone!;Donate;Securely via PayPal to webmaster@mixesoft.com;As a bonus, each Contributor will receive:;We may modify these terms at any time.;1. Access to a beta version before anyone else.;2. Priority to get support via email.;3. Your full name and a link to your bio, blog, facebook page, etc will be added to the;supporters page ;on the website.;We reserve the right not to place a link to your bio, blog, etc, \nwhich, in our sole discretion, do not conform to our criteria.;Note: ;Please let us know if you wish your donation to remain anonymous."
+   },
+   "months": {
+      "description": "Months",
+      "message": "January;February;March;April;May;June;July;August;September;October;November;December"
+   },
+   "pgen": {
+      "description": "Password Generator",
+      "message": "Password has been generated. You can drag it to any field now.;Number of characters: ;Generate ;Copy;Generate new password;Copy new generated password to clipboard"
+   },
+   "share": {
+      "description": "Share Button / Titles",
+      "message": "Subscribe to our videos on YouTube;Share on Facebook;Share on Google+;Share on Twitter;Follow us on Twitter;Share via Email;Follow us on Pinterest"
+   },
+   "ver": {
+      "message": "9.3.0.0"
+   }
+}

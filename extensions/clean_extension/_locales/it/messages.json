@@ -1,0 +1,138 @@
+{
+   "b0": {
+      "message": "Ok"
+   },
+   "b1": {
+      "message": "Annulla"
+   },
+   "b2": {
+      "message": "Visualizza la cronologia di navigazione"
+   },
+   "cache": {
+      "description": "Cache Viewer",
+      "message": "Mostra tutto;Immagini;Video;Audio;Script;CSS;HTML;Aggiorna;Elimina l’intera cache indipendentemente dal tipo di contenuto scelto!;Cerca nella URL ...;Precedente pagina;La pagina corrente;Successiva pagina;Vedi dati nella cache;Apri cartella di origine;Non è stato trovato nulla"
+   },
+   "calendar": {
+      "description": "Calendar",
+      "message": "Gen;Feb;Mar;Apr;Mag;Giu;Lug;Ago;Set;Ott;Nov;Dic;Do;Lu;Ma;Me;Gi;Ve;Sa;Domenica;Lunedì;Martedì;Mercoledì;Giovedì;Venerdì;Sabato;Anno prima;Anno dopo;Mese prima;Mese dopo;Oggi;Annulla"
+   },
+   "cleaner1": {
+      "description": "Cleaner Buttons / Labels & Titles",
+      "message": "Non dimenticare di ...;Valutazione 5 Stelle;Donare;Avvia pulizia;Cronologia;Gestisci Storia del Browser;Supporto;Aiuto;Basso;Medio;Alto;Dev;Modo Sviluppo SI/NO;Modo Pulizia;Salva impostazioni;Recupera impostazioni;Rimozione di elementi dalla Cronologia web di Google;Interrompi la sincronizzazione e cancella tutti i dati Chrome sincronizzati;Aspetto"
+   },
+   "cleaner2": {
+      "description": "Cleaner Options / Headers",
+      "message": "CHROME;AZIONI;EXTRA;Siti web normali;Siti web che sono stati installati come applicazioni ospitate;Estensioni e Pacchetti di applicazioni"
+   },
+   "cleaner3": {
+      "description": "Cleaner Options / Select Time Period",
+      "message": "Cancella i seguenti elementi da:;L’inizio della sessione corrente;ultima ora;Le 2 ore prima;Le 4 ore prima;Le 8 ore prima;Le 10 ore prima;Le 12 ore prima;Le 24 ore prima;ultima settimana;-/-;tutto"
+   },
+   "cleaner4": {
+      "description": "Cleaner Options / Labels",
+      "message": "Chiudi tutte le schede prima di pulire;Cancella cronologia di navigazione;Cancella cronologia download;Svuota la cache;Elimina cookie;Cancella password salvate;Cancella i dati della dei moduli salvati;Cancella memoria locale;Cancella database webSQL;Cancella database indicizzati;Cancella il file system;Suota la cache della applicazioni;Elimina i dati dei plug-in;Elimina cookie;Cancella memoria locale;Cancella database webSQL;Cancella database indicizzati;Cancella il file system;Suota la cache della applicazioni;Elimina cookie;Cancella memoria locale;Cancella database webSQL;Cancella database indicizzati;Cancella il file system;Suota la cache della applicazion;Ricarica schede attive dopo la pulizia;Elimina i dati personali alla chiusura di Chrome;Chiudi il applicazione dopo la pulizia;Attiva suono quando attivita’ termina ;Aggiungi comandi al menu di contesto;Non permettere accesso alla pagina di default della storia;Attiva notifiche (consigliata);Visualizza il numero nell'icona"
+   },
+   "cleaner5": {
+      "description": "Cleaner Options / Custom Titles",
+      "message": "Visualizza...;Chiudi tutte le schede;Ricarica tutte le schede ora (senza pulizia);Chiudi Chrome ora (senza pulizia);Chiudi App ora (senza pulizia);In azione ora"
+   },
+   "cookies": {
+      "description": "Cookie manager",
+      "message": "Seleziona tutti / nessuno;Cookie da eliminare;Cookie da conservare;Aggiorna;Rimuovi gli elementi selezionati;Tienimi Aperto l'Accesso"
+   },
+   "ctxMenu": {
+      "description": "Context Menu Items",
+      "message": "Dimentica questa pagina;Open link anonymously (no referrer);Secure search Google for '%s'"
+   },
+   "days": {
+      "description": "Days of the week",
+      "message": "Domenica;Lunedì;Martedì;Mercoledì;Giovedì;Venerdì;Sabato"
+   },
+   "extDesc": {
+      "message": "Questa app elimina la cronologia di navigazione quando si chiude il  browser ed impedisce di tracciare  le tue attività on-line."
+   },
+   "extName": {
+      "message": "Click&Clean"
+   },
+   "extTitle": {
+      "message": "Click&Clean"
+   },
+   "history": {
+      "description": "History Viewer",
+      "message": "Filtra per titolo;Aggiorna;Seleziona tutti / nessuno;Rimuovi gli elementi selezionati;Non è stato trovato nulla;Esporta in HTML..."
+   },
+   "m0": {
+      "message": "Il nuovo Click&Clean versione 1 e’ stato installato con successo!"
+   },
+   "m1": {
+      "message": "Grazie per avere usato Click&Clean!"
+   },
+   "m12": {
+      "message": "Si è verificato un errore!"
+   },
+   "m2": {
+      "message": "Software sviluppato per renderti la vita migliore!"
+   },
+   "m20a": {
+      "message": "Attenzione! Many extensions can store their settings here. If you select this option, any saved preferences will be deleted!"
+   },
+   "m20b": {
+      "message": "Many extensions can store their settings here. Continuare?"
+   },
+   "m3": {
+      "message": "Attention! You haven't run a clean up on your browsing history for a while. This could put your private data at risk."
+   },
+   "m4": {
+      "message": "Questa modalità è sperimentale. Non tutte le funzioni possono funzionare come previsto. Usatela a vostro rischio e pericolo!"
+   },
+   "m5a": {
+      "message": "Attenzione! Se selezioni questa opzione, tutte le password salvate verranno cancellate."
+   },
+   "m5b": {
+      "message": "Si è certi di voler eliminare password salvate?"
+   },
+   "m7": {
+      "message": "Pulizia Completata"
+   },
+   "m8": {
+      "message": "Completato"
+   },
+   "m9": {
+      "message": "Non mostrare più questo messagio"
+   },
+   "menu": {
+      "description": "Popup Menu - Menu",
+      "message": "Principale;Chrome;Sistema;Donare"
+   },
+   "menu0": {
+      "description": "Popup Menu - Main",
+      "message": "Chiudi Browser in Sicurezza;Elimina i dati personali;Chiudi tutte le schede;Cache...;Svuota la cache;Cronologia...;Cancella cronologia di navigazione;Estensioni...;Scansione Malware ...;Download...;Cancella cronologia download;Incognito;Pulitura disco...;Memoria...;Test Riservatezza;Cookie...;Elimina cookie;Supporto;Opzioni...;Aspetto;Ricerca aggiornamenti;Valutazione 5 Stelle;Facebook;Google+;Twitter;Youtube"
+   },
+   "menu1": {
+      "description": "Popup Menu - Chrome",
+      "message": "Plug-in;Estensioni;Esperimenti;Stack di rete;DNS;Cronologia;Cache;Generatore di Password;Versione;Blog;Conflitti;Criteri;Rilasci;Calendario;Crediti;Errori "
+   },
+   "menu2": {
+      "description": "Popup Menu - System",
+      "message": "Centro sicurezza PC;Info;Disinstallare i programmi;Utilità di deframmentazione;Impostazioni audio;Connessioni di rete;Connessione a una rete;Gestisci reti wireless;Dispositivi;Impostazioni di visualizzazione;Servizi;Di diagnostica DirectX"
+   },
+   "menu3": {
+      "description": "Popup Menu – Donate",
+      "message": "Supporto Click&Clean!;Ognuno di noi può contribuire a rendere il Click&Clean migliore per tutti!;Donare;Con sicurezza tramite Paypal;Come bonus, ciascun Contributore ricevera’:;Possiamo modificare queste condizioni in ogni momento;1. Accesso alla versione Beta di Click&Clean prima di ogno altro.;2. Priorita’ per ricere supporto email dal team di Click&Clean;3. Il tuo nome completo ed un link alla  tua bio, tuo blog, pagina facebook, ecc verrà aggiunta alla pagina dei;sostenitori ;sul sito web.;Ci riserviamo il diritto di non inserire un link alla tua bio, blog, ecc, se, a nostra sola discrezione, non sono conformi ai nostri criteri.;Nota: ;Ti preghiamo di farci sapere se  desideri che la tua donazione rimanga anonima."
+   },
+   "months": {
+      "description": "Months",
+      "message": "Gennaio;Febbraio;Marzo;Aprile;Maggio;Giugno;Luglio;Agosto;Settembre;Ottobre;Novembre;Dicembre"
+   },
+   "pgen": {
+      "description": "Password Generator",
+      "message": "La password e stata generata. Trascinala dento qualsiasi campo.;Numero di caratteri:;Genera;Copia;Genera nuova password;Copia la password generata nella clipboard"
+   },
+   "share": {
+      "description": "Share Button / Titles",
+      "message": "Iscriviti al nostro canale Youtube;Condividi su Facebook;Condividi su Google+;Condividi su Twitter;Seguici su Twitter;Condividi via E-Mail;Seguici su Pinterest"
+   },
+   "ver": {
+      "message": "9.3.0.0"
+   }
+}
