@@ -5,7 +5,7 @@ import {LoginFacebook} from "./login-facebook";
 import {Browser} from "../modules/browser/browser";
 
 export module Addmefast {
-    import removeSid = Storage.removeSid;
+    import wremoveSid = Storage.removeSid;
     import clickElement = Robot.clickElement;
     import setProxyIP = Browser.setProxyIP;
 

@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function (event) {
     setTimeout(function () {
         console.log('Redirect!');
-        window.location.href = 'http://google.com';
+        // window.location.href = 'http://google.com';
     }, 3000);
 });
 /*

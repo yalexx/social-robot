@@ -61,14 +61,11 @@ function setListeners() {
             $(msg.selector).remove();
         }
     });
-    socket.on('clickLoveBtn', function (msg) {
-        console.log('clickLoveBtn');
-        $('._544l._1-kb.accelerate').css("display", "block");
-        console.log($('._544l._1-kb.accelerate'));
-        setTimeout(function () {
-            $("div[aria-label='Love']").trigger('click');
-            console.log($("div[aria-label='Love']"));
-        }, 500);
+
+    // aria-label="Харесва ми"
+    socket.on('clickClass', function (msg) {
+        console.log('ClickClass: ', msg);
+        document.getElementsByClassName(msg.className)[0].click();
     });
     socket.on('hideElement', function (msg) {
         console.log('Hide Element: ', msg.selector);
